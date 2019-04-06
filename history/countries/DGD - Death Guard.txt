@@ -1,0 +1,9 @@
+technology_group = chaos_marine_tech
+
+government = traitor_legion
+add_government_reform = traitor_legion_reform
+
+religion = nurgle
+primary_culture = death_guard
+
+capital = 1

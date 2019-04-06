@@ -1,0 +1,64 @@
+# Triggers
+is_imperium = {
+    OR = {
+        technology_group = imperial_guard_tech
+        technology_group = space_marine_tech
+        technology_group = sisters_of_battle_tech
+    }
+}
+
+is_imperial_guard = {
+    technology_group = imperial_guard_tech
+}
+
+is_space_marine = {
+    technology_group = space_marine_tech
+}
+
+is_sisters_of_battle = {
+    technology_group = sisters_of_battle_tech
+}
+
+is_chaos = {
+    OR = {
+        technology_group = chaos_marine_tech
+        technology_group = daemon_tech
+        technology_group = chaos_cultist_tech
+    }
+}
+
+is_chaos_marine = {
+    technology_group = chaos_marine_tech
+}
+
+is_daemon = {
+    technology_group = daemon_tech
+}
+
+is_cultist = {
+    technology_group = chaos_cultist_tech
+}
+
+is_dark_eldar = {
+    technology_group = dark_eldar_tech
+}
+
+is_eldar = {
+    technology_group = eldar_tech
+}
+
+is_necron = {
+    technology_group = necron_tech
+}
+
+is_ork = { 
+    technology_group = ork_tech
+}
+
+is_tau = {
+    technology_group = tau_tech
+}
+
+is_tyranid = {
+    technology_group = tyranid_tech
+}

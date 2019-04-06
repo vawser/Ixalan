@@ -1,0 +1,720 @@
+# A province can only belong to one region!
+random_new_world_region = {
+}
+
+sea_region = {
+    areas = {
+        ixalan_lakes_area
+    }
+}
+
+border_region = {
+    areas = {
+        border_area
+    }
+}
+
+#-------------------------------
+# Regions
+#-------------------------------
+quetlea_region = {
+	areas = {
+        cittlan_area
+        coazalzuma_area
+        coaotl_area
+        citoch_area
+        guaalea_area
+        cicoytzitli_area
+        nettecali_area
+        tenli_area
+        itzlaliina_area
+        cuahutathtli_area
+        quetalmalhtli_area
+        mattlitic_area
+        huilan_area
+        acapacmalzi_area
+        guamoc_area
+        nahutecuzahina_area
+        cuazalmalka_area
+        nahutohtli_area
+        acatecutlanli_area
+        acatelan_area
+        itzoc_area
+        tenoch_area
+        cuaattlilin_area
+        huilin_area
+        ciea_area
+        acaallotl_area
+        nahualllan_area
+        ahutzppactic_area
+	}
+}
+illnexpacka_region = {
+	areas = {
+		teztecuzi_area
+        ohtnexcamnal_area
+        ciina_area
+        cihutcaccali_area
+        ohthuitl_area
+        coatic_area
+        acatl_area
+        acatemtemoatl_area
+        illlitic_area
+        tezlin_area
+        netlan_area
+        coaalhuthtli_area
+        guazitecuea_area
+        citopactlan_area
+        ohtzahatl_area
+        ciualzilea_area
+        ohtea_area
+        cittzpina_area
+        citepacoatl_area
+        teztoli_area
+        ocoallhutina_area
+	}
+}
+micka_region = {
+	areas = {
+		illzahzahzi_area
+        ichlee_area
+        ezlalimoc_area
+        miccaczinal_area
+        nahulee_area
+        citlatli_area
+        quettactoatl_area
+        mictzplee_area
+        huiatl_area
+        cililea_area
+        huilee_area
+        ocotlan_area
+        illtactzilea_area
+        nahucactactli_area
+        cuataczalzi_area
+        mattli_area
+        ohtoch_area
+        eztehuitl_area
+        illlicamtlan_area
+        monina_area
+        acalan_area
+        nettlan_area
+        ichli_area
+        huizahteea_area
+        nahuualnal_area
+        citlihuitl_area
+        eztic_area
+        cuaatnal_area
+        chiatl_area
+        
+	}
+}
+monhuttic_region = {
+	areas = {
+		ahuallnal_area
+        montzicoyina_area
+        huilitemoch_area
+        cuacali_area
+        eztacea_area
+        ohtmaltziley_area
+        ocotzitlanatl_area
+        chicoatl_area
+        nahuhtli_area
+        monzitic_area
+        itzcoatl_area
+        teztlanzahhuitl_area
+        cicoyteeli_area
+        monea_area
+        illmoc_area
+        tezhutlatic_area
+        ahunexcali_area
+        miccamtlan_area
+        chihtli_area
+        coatelaliea_area
+        acatactlanlea_area
+        citmalcoatl_area
+        miccacliatl_area
+        tenlilea_area
+        eztziatl_area
+	}
+}
+tenhuitl_region = {
+	areas = {
+		acanextemlan_area
+        ichualnextic_area
+        ocolacoatl_area
+        gualey_area
+        micualea_area
+        illhuitl_area
+        nahutlanhutotl_area
+        coaatl_area
+        citteculee_area
+        guatactecumoc_area
+        ococoyli_area
+        netzalina_area
+        cuatemhutcali_area
+        illzahcactic_area
+        cicamteehtli_area
+        ocoka_area
+        acaallhtli_area
+        nettl_area
+        ahulin_area
+        cittetecuzi_area
+        matpactl_area
+        tentotzpmoc_area
+        matualteculi_area
+        huitematl_area
+        moncoymalzuma_area
+        cinexzalotl_area
+        acazuma_area
+        huipacteeoch_area
+        gualalan_area
+        guahutoatl_area
+        ocozalley_area
+        
+	}
+}
+ahuhuttactlan_region = {
+	areas = {
+		guanexzahoc_area
+        micaltozi_area
+        micatea_area
+        cittlizuma_area
+        acali_area
+        coaalloatl_area
+        nahulicacina_area
+        quetoatl_area
+        huicaccoyotl_area
+        illtemhuitl_area
+        netzizahtl_area
+        ahucali_area
+        quetzalatl_area
+        coazalteculin_area
+        coalea_area
+        huipaczuma_area
+        matzahalli_area
+        ezpacallcoatl_area
+        guapacalli_area
+        tenpaczuma_area
+	}
+}
+acazahalhtli_region = {
+	areas = {
+		citzika_area
+        guateculiley_area
+        cizallin_area
+        gualiatl_area
+        citoka_area
+        guazicacatl_area
+        coanexcoyoch_area
+        cuatemoc_area
+        nahuoatl_area
+        monteoatl_area
+        matzaltzioc_area
+        ahuzaloatl_area
+        ocoualina_area
+        teztli_area
+        ohttlanoc_area
+        netmalcoatl_area
+        ohtlan_area
+        cilin_area
+        tenteea_area
+        ichzalcali_area
+        acanexzahnal_area
+        netzuma_area
+        coacali_area
+        mattlanoch_area
+        cualee_area
+        guaalltl_area
+        tezallzalley_area
+        illcoyotl_area
+        citemlilan_area
+        montzpcactli_area
+	}
+}
+tentzitachuitl_region = {
+	areas = {
+		mattziatl_area
+        ahulan_area
+        huitlanzallee_area
+        cuacamualcoatl_area
+        ezteeoch_area
+        citlilan_area
+        guatzilahtli_area
+        cicoylacoatl_area
+        chicali_area
+        acalee_area
+        ezmoc_area
+        monallatl_area
+        quetlaliteenal_area
+        ohtoatl_area
+        coateculi_area
+        huitemualka_area
+        matcaczi_area
+        guazitlannal_area
+        ohtka_area
+        ichattocoatl_area
+        coaley_area
+        nahuoch_area
+        acaallan_area
+        ocotziotl_area
+        monoatl_area
+        tenhuitl_area
+        coapacka_area
+	}
+}
+chiziley_region = {
+	areas = {
+		
+	}
+}
+matoatl_region = { 
+	areas = {
+		
+	}
+}
+quetina_region = {
+	areas = {
+		
+	}
+}
+tezcoypacka_region = {
+	areas = {
+		
+	}
+}
+monzahpacnal_region = {
+	areas = {
+		
+	}
+}
+tezhutzalli_region = {
+	areas = {
+		
+	}
+}
+nahunexallee_region = {
+	areas = {
+		
+	}
+}
+montacotl_region = {
+	areas = {
+		
+	}
+}
+coatic_region = {
+	areas = {
+		
+	}
+}
+ohtcoatl_region = {
+	areas = {
+		
+	}
+}
+huitecutzihtli_region = {
+	areas = {
+		
+	}
+}
+coatzinexnal_region = {
+	areas = {
+		
+	}
+}
+mictoatli_region = {
+	areas = {
+		
+	}
+}
+illlin_region = {
+	areas = {
+		
+	}
+}
+tenina_region = {
+	areas = {
+		
+	}
+}
+illlaina_region = {
+	areas = {
+		
+	}
+}
+ocootl_region = {
+	areas = {
+		
+	}
+}
+huipacoc_region = {
+	areas = {
+		
+	}
+}
+illtemlaatl_region = {
+	areas = {
+		
+	}
+}
+mattl_region = {
+	areas = {
+		
+	}
+}
+citemallotl_region = {
+	areas = {
+		
+	}
+}
+ahuliteeea_region = {
+	areas = {
+		
+	}
+}
+ocotzitl_region = {
+	areas = {
+		
+	}
+}
+nahunexlalioc_region = {
+	areas = {
+		
+	}
+}
+ahucoytzpmoc_region = {
+	areas = {
+		
+	}
+}
+ohttacley_region = {
+	areas = {
+		
+	}
+}
+micalhtli_region = {
+	areas = {
+		
+	}
+}
+matualtzpoatl_region = {
+	areas = {
+		
+	}
+}
+citzi_region = {
+	areas = {
+		
+	}
+}
+nahutecuzahoc_region = {
+	areas = {
+		
+	}
+}
+ohttli_region = {
+	areas = {
+		
+	}
+}
+huiotl_region = {
+	areas = {
+		
+	}
+}
+miclee_region = {
+	areas = {
+		
+	}
+}
+acatecutic_region = {
+	areas = {
+		
+	}
+}
+montelalihuitl_region = {
+	areas = {
+		
+	}
+}
+acatlimoc_region = {
+	areas = {
+		
+	}
+}
+cuazalzaltl_region = {
+	areas = {
+		
+	}
+}
+nahupacallotl_region = {
+	areas = {
+		
+	}
+}
+citpactlicoatl_region = {
+	areas = {
+		
+	}
+}
+tezteeatl_region = {
+	areas = {
+		
+	}
+}
+ocotemtic_region = {
+	areas = {
+		
+	}
+}
+cipactlanoc_region = {
+	areas = {
+		
+	}
+}
+miccoatl_region = {
+	areas = {
+		
+	}
+}
+ohtzallan_region = {
+	areas = {
+		
+	}
+}
+nahuatl_region = {
+	areas = {
+		
+	}
+}
+ohtteetziley_region = {
+	areas = {
+		
+	}
+}
+matatl_region = {
+	areas = {
+		
+	}
+}
+coali_region = {
+	areas = {
+		
+	}
+}
+nahuzahnexley_region = {
+	areas = {
+		
+	}
+}
+ichtzptlan_region = {
+	areas = {
+		
+	}
+}
+huiina_region = {
+	areas = {
+		
+	}
+}
+guatematl_region = {
+	areas = {
+		
+	}
+}
+chicamcoyoc_region = {
+	areas = {
+		
+	}
+}
+chizahtemzuma_region = {
+	areas = {
+		
+	}
+}
+ahuhuitl_region = {
+	areas = {
+		
+	}
+}
+huiattacmoc_region = {
+	areas = {
+		
+	}
+}
+quetcoyatlin_region = {
+	areas = {
+		
+	}
+}
+ezlea_region = {
+	areas = {
+		
+	}
+}
+coaoc_region = {
+	areas = {
+		
+	}
+}
+ezallzalhuitl_region = {
+	areas = {
+		
+	}
+}
+netallcali_region = {
+	areas = {
+		
+	}
+}
+cittzpzizuma_region = {
+	areas = {
+		
+	}
+}
+ohtoc_region = {
+	areas = {
+		
+	}
+}
+mictzpzuma_region = {
+	areas = {
+		
+	}
+}
+huitlizilea_region = {
+	areas = {
+		
+	}
+}
+nettlanzahtlan_region = {
+	areas = {
+		
+	}
+}
+citemmoc_region = {
+	areas = {
+		
+	}
+}
+ocototecuea_region = {
+	areas = {
+		
+	}
+}
+ichatcoylan_region = {
+	areas = {
+		
+	}
+}
+illcoatl_region = {
+	areas = {
+		
+	}
+}
+ocozaloch_region = {
+	areas = {
+		
+	}
+}
+ohthuitl_region = {
+	areas = {
+		
+	}
+}
+tenley_region = {
+	areas = {
+		
+	}
+}
+nahumaltic_region = {
+	areas = {
+		
+	}
+}
+moncachutcali_region = {
+	areas = {
+		
+	}
+}
+tenlea_region = {
+	areas = {
+		
+	}
+}
+tezlee_region = {
+	areas = {
+		
+	}
+}
+chizalzallan_region = {
+	areas = {
+		
+	}
+}
+ohtlalicaclee_region = {
+	areas = {
+		
+	}
+}
+coalitlika_region = {
+	areas = {
+		
+	}
+}
+citpactlan_region = {
+	areas = {
+		
+	}
+}
+tenmaltic_region = {
+	areas = {
+		
+	}
+}
+ahuka_region = {
+	areas = {
+		
+	}
+}
+ahulaliley_region = {
+	areas = {
+		
+	}
+}
+cizahtic_region = {
+	areas = {
+		
+	}
+}
+citatl_region = {
+	areas = {
+		
+	}
+}
+ciallteoc_region = {
+	areas = {
+		
+	}
+}
+ezalllee_region = {
+	areas = {
+		
+	}
+}
+cinexcali_region = {
+	areas = {
+		
+	}
+}
+tezhtli_region = {
+	areas = {
+		
+	}
+}
+citl_region = {
+	areas = {
+		
+	}
+}
+

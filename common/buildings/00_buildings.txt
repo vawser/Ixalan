@@ -1,0 +1,439 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new buildings, make sure they are uniquely named.
+
+# cost = x #==> cost in $ to build (subject to other modifiers)
+# time = x #==> number of months to build.
+# modifier = m # a modifier on the province that the building gives
+# trigger = t # an and trigger that needs to be fullfilled to build and keep the building
+# one_per_country = yes/no # if yes, only one of these can exist in a country
+# manufactory = { trade_good trade_good } # list of trade goods that get a production bonus
+# onmap = yes/no # show as a sprite on the map
+
+# FROM = owner
+# ROOT = province
+
+# Building AI is now mainly hard-coded. The AI will estimate how much it gains yearly from each building,
+# convert the value to ducats, and take the building with biggest yearly return as a percentage of the build cost.
+# If lower than 1%, the AI will not consider the yearly return worth it.
+# It will also require higher yearly return if the economy in not in prime shape.
+# Forts' value also get converted to a yearly return based on terrain and strategic position, as well as available budget for fort maintenance.
+
+# AI can still be modded though; it will multiply the yearly return with the value of ai_will_do.
+# If you don't want the AI to build a building at all, make ai_will_do become 0.
+# AI will consider each building to be worth 0.01 ducats per year as a base, so making ai_will_do above cost will have them build it at some point.
+# It will still check whether it can afford a building before doing so though, but may save up to it.
+
+#-----------------------------
+# Trade
+#-----------------------------
+trade_sector_1 = {
+	cost = 100
+	time = 64
+	
+	modifier = {
+		province_trade_power_modifier = 0.2
+	}
+	
+	ai_will_do = {
+		factor = 1.5
+	}
+}
+trade_sector_2 = {
+	cost = 200
+	time = 64
+	
+	make_obsolete = trade_sector_1
+	
+	modifier = {
+		province_trade_power_modifier = 0.4
+	}
+	
+	ai_will_do = {
+		factor = 1.5
+	}
+}
+trade_sector_3 = {
+	cost = 300
+	time = 64
+	
+	make_obsolete = trade_sector_2
+	
+	modifier = {
+		province_trade_power_modifier = 0.6
+	}
+	
+	ai_will_do = {
+		factor = 1.5
+	}
+}
+trade_sector_4 = {
+	cost = 400
+	time = 64
+	
+	make_obsolete = trade_sector_3
+	
+	modifier = {
+		province_trade_power_modifier = 0.8
+	}
+	
+	ai_will_do = {
+		factor = 1.5
+	}
+}
+trade_sector_5 = {
+	cost = 500
+	time = 64
+	
+	make_obsolete = trade_sector_4
+	
+	modifier = {
+		province_trade_power_modifier = 1.0
+	}
+	
+	ai_will_do = {
+		factor = 1.5
+	}
+}
+
+#-----------------------------
+# Manufacturing
+#-----------------------------
+manufacturing_sector_1 = {
+	cost = 100
+	time = 64
+	
+	modifier = {
+		local_production_efficiency = 0.2
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+manufacturing_sector_2 = {
+	cost = 200
+	time = 64
+	
+	make_obsolete = manufacturing_sector_1
+	
+	modifier = {
+		local_production_efficiency = 0.4
+	}
+	
+	ai_will_do = {
+		factor = 1.
+	}
+}
+manufacturing_sector_3 = {
+	cost = 300
+	time = 64
+	
+	make_obsolete = manufacturing_sector_2
+	
+	modifier = {
+		local_production_efficiency = 0.6
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+manufacturing_sector_4 = {
+	cost = 400
+	time = 64
+	
+	make_obsolete = manufacturing_sector_3
+	
+	modifier = {
+		local_production_efficiency = 0.8
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+manufacturing_sector_5 = {
+	cost = 500
+	time = 64
+	
+	make_obsolete = manufacturing_sector_4
+	
+	modifier = {
+		local_production_efficiency = 1.0
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+#-----------------------------
+# Residential
+#-----------------------------
+residential_sector_1 = {
+	cost = 100
+	time = 64
+	
+	modifier = {
+		local_tax_modifier = 0.2
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+residential_sector_2 = {
+	cost = 200
+	time = 64
+	
+	make_obsolete = residential_sector_1
+	
+	modifier = {
+		local_tax_modifier = 0.4
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+residential_sector_3 = {
+	cost = 300
+	time = 64
+	
+	make_obsolete = residential_sector_2
+	
+	modifier = {
+		local_tax_modifier = 0.6
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+residential_sector_4 = {
+	cost = 400
+	time = 64
+	
+	make_obsolete = residential_sector_3
+	
+	modifier = {
+		local_tax_modifier = 0.8
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+residential_sector_5 = {
+	cost = 500
+	time = 64
+	
+	make_obsolete = residential_sector_4
+	
+	modifier = {
+		local_tax_modifier = 1.0
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+
+#-----------------------------
+# Military
+#-----------------------------
+military_sector_1 = {
+	cost = 100
+	time = 64
+	
+	modifier = {
+		local_manpower_modifier = 0.2
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+military_sector_2 = {
+	cost = 200
+	time = 64
+	
+	make_obsolete = military_sector_1
+	
+	modifier = {
+		local_manpower_modifier = 0.4
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+military_sector_3 = {
+	cost = 300
+	time = 64
+	
+	make_obsolete = military_sector_2
+	
+	modifier = {
+		local_manpower_modifier = 0.6
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+military_sector_4 = {
+	cost = 400
+	time = 64
+	
+	make_obsolete = military_sector_3
+	
+	modifier = {
+		local_manpower_modifier = 0.8
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+military_sector_5 = {
+	cost = 500
+	time = 64
+	
+	make_obsolete = military_sector_4
+	
+	modifier = {
+		local_manpower_modifier = 1.0
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+#-----------------------------
+# Fortification
+#-----------------------------
+bunker_1 = {
+	cost = 100
+	time = 64
+	
+	modifier = {
+		fort_level = 2
+	}
+
+	onmap = yes
+	influencing_fort = yes
+    
+    ai_will_do = {
+		factor = 1
+	}
+}
+bunker_2 = {
+	cost = 200
+	time = 64
+	
+	make_obsolete = bunker_1
+	
+	modifier = {
+		fort_level = 4
+	}
+
+	onmap = yes
+	influencing_fort = yes
+    
+    ai_will_do = {
+		factor = 1
+	}
+}
+bunker_3 = {
+	cost = 300
+	time = 64
+	
+	make_obsolete = bunker_2
+	
+	modifier = {
+		fort_level = 6
+	}
+
+	onmap = yes
+	influencing_fort = yes
+    
+    ai_will_do = {
+		factor = 1
+	}
+}
+bunker_4 = {
+	cost = 400
+	time = 64
+	
+	make_obsolete = bunker_3
+	
+	modifier = {
+		fort_level = 8
+	}
+	
+	onmap = yes
+	influencing_fort = yes
+    
+    ai_will_do = {
+		factor = 1
+	}
+}
+bunker_5 = {
+	cost = 500
+	time = 64
+	
+	make_obsolete = bunker_4
+	
+	modifier = {
+		fort_level = 10
+	}
+	
+	onmap = yes
+	influencing_fort = yes
+    
+    ai_will_do = {
+		factor = 1
+	}
+}
+
+#-----------------------------
+# Manufactories
+#-----------------------------
+manufactory = {
+	cost = 500
+	time = 60
+	modifier = {
+		trade_goods_size = 1.0
+	}
+}
+
+factory = {
+	manufactory = {
+		
+	}
+	onmap = yes
+	
+	ai_will_do = {
+		factor = 1750
+		
+		modifier = { 
+			factor = 0.4
+			NOT = { base_production = 6 }
+		}
+		modifier = { 
+			factor = 1.5
+			base_production = 10
+		}
+		modifier = {
+			factor = 1.5
+			base_production = 15
+		}
+		modifier = {
+			NOT = { num_free_building_slots = 3 }
+			factor = 1.5
+		}
+	}
+}

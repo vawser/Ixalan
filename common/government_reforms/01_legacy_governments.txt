@@ -1,0 +1,235 @@
+#-----------------------------------------------
+# Imperium
+#-----------------------------------------------
+astra_militarum_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+space_marine_chapter_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+orders_militant_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+#-----------------------------------------------
+# Chaos
+#-----------------------------------------------
+traitor_legion_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+daemon_horde_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+chaos_cult_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+#-----------------------------------------------
+# Dark Eldar
+#-----------------------------------------------
+kabal_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+haemonculi_coven_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+wych_cult_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+#-----------------------------------------------
+# Eldar
+#-----------------------------------------------
+craftworld_outpost_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+#-----------------------------------------------
+# Necrons
+#-----------------------------------------------
+tomb_world_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+#-----------------------------------------------
+# Orks
+#-----------------------------------------------
+ork_clan_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+#-----------------------------------------------
+# Tau
+#-----------------------------------------------
+tau_contingent_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+#-----------------------------------------------
+# Tyranids
+#-----------------------------------------------
+hive_fleet_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+genestealer_cult_legacy = {
+	icon = "crown"
+    
+    allow_normal_conversion = yes
+	legacy_government = yes
+    
+	valid_for_new_country = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    
+    monarchy = yes
+    
+	ai = { factor = 1 }
+}
+

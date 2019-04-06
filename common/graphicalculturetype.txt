@@ -1,0 +1,12 @@
+imperial_guard_gfx
+space_marine_gfx
+sisters_of_battle_gfx
+chaos_marine_gfx
+daemon_gfx
+chaos_cultist_gfx
+dark_eldar_gfx
+eldar_gfx
+necron_gfx
+ork_gfx
+tau_gfx
+tyranid_gfx

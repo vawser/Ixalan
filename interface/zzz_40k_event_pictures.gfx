@@ -1,0 +1,7 @@
+spriteTypes = {	
+    # spriteType = {
+		# name = "BLOODLUST_eventPicture"
+		# texturefile = "gfx/interface/event/BLOODLUST_eventPicture.dds"
+		# allwaystransparent = yes
+	# }
+}

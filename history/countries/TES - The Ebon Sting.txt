@@ -1,0 +1,9 @@
+technology_group = dark_eldar_tech
+
+government = haemonculi_coven
+add_government_reform = haemonculi_coven_reform
+
+religion = hedonism
+primary_culture = the_ebon_sting
+
+capital = 1

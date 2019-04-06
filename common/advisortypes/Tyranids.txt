@@ -1,0 +1,71 @@
+#-----------------------------------
+# ADM
+#-----------------------------------
+adm_advisor_tyranids = {
+	monarch_power = ADM
+	
+
+	skill_scaled_modifier = { meritocracy = 0.5 }
+
+	chance = {
+		factor = 1
+        
+        modifier = {
+            factor = 0
+            
+            owner = { NOT = { is_tyranid = yes } }
+        }
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+#-----------------------------------
+# DIP
+#-----------------------------------
+dip_advisor_tyranids = {
+	monarch_power = DIP
+	
+
+	skill_scaled_modifier = { meritocracy = 0.5 }
+
+	chance = {
+		factor = 1
+        
+        modifier = {
+            factor = 0
+            
+            owner = { NOT = { is_tyranid = yes } }
+        }
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+#-----------------------------------
+# MIL
+#-----------------------------------
+mil_advisor_tyranids = {
+	monarch_power = MIL
+	
+
+	skill_scaled_modifier = { meritocracy = 0.5 }
+
+	chance = {
+		factor = 1
+        
+        modifier = {
+            factor = 0
+            
+            owner = { NOT = { is_tyranid = yes } }
+        }
+	}
+	
+	ai_will_do = {
+		factor = 1
+	}
+}

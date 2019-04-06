@@ -1,0 +1,9 @@
+technology_group = eldar_tech
+
+government = craftworld_outpost
+add_government_reform = craftworld_outpost_reform
+
+religion = eldar_pantheon
+primary_culture = ulthwe
+
+capital = 1

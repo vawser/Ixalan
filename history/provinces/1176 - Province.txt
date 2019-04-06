@@ -1,0 +1,27 @@
+native_size = 8
+native_ferocity = 8
+native_hostileness = 2
+is_city = no
+
+base_tax = 4
+base_production = 4
+base_manpower = 3
+
+culture = barren
+religion = empty
+
+hre = no
+trade_goods = unknown
+
+discovered_by = imperial_guard_tech
+discovered_by = space_marine_tech
+discovered_by = sisters_of_battle_tech
+discovered_by = chaos_marine_tech
+discovered_by = daemon_tech
+discovered_by = chaos_cultist_tech
+discovered_by = dark_eldar_tech
+discovered_by = eldar_tech
+discovered_by = necron_tech
+discovered_by = ork_tech
+discovered_by = tau_tech
+discovered_by = tyranid_tech

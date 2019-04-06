@@ -1,0 +1,589 @@
+# Fallback defaults
+# Will pick the first valid one it finds in list
+
+#-----------------------------------------------
+# Imperium
+#-----------------------------------------------
+default_astra_militarum = {
+	rank = {
+		1 = GOV_ASTRA_MILITARUM
+		2 = GOV_ASTRA_MILITARUM
+		3 = GOV_ASTRA_MILITARUM
+	}
+
+	ruler_male = {
+		1 = GOV_LORD_COMMANDER
+		2 = GOV_LORD_COMMANDER
+		3 = GOV_LORD_COMMANDER
+	}
+
+	ruler_female = {
+		1 = GOV_LORD_COMMANDER
+		2 = GOV_LORD_COMMANDER
+		3 = GOV_LORD_COMMANDER
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = astra_militarum_mechanic
+
+	trigger = {
+		has_reform = astra_militarum_mechanic
+	}
+}
+default_space_marine_chapter = {
+	rank = {
+		1 = GOV_SPACE_MARINE_CHAPTER
+		2 = GOV_SPACE_MARINE_CHAPTER
+		3 = GOV_SPACE_MARINE_CHAPTER
+	}
+
+	ruler_male = {
+		1 = GOV_FORCE_COMMANDER
+		2 = GOV_FORCE_COMMANDER
+		3 = GOV_FORCE_COMMANDER
+	}
+
+	ruler_female = {
+		1 = GOV_FORCE_COMMANDER
+		2 = GOV_FORCE_COMMANDER
+		3 = GOV_FORCE_COMMANDER
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = space_marine_chapter_mechanic
+
+	trigger = {
+		has_reform = space_marine_chapter_mechanic
+	}
+}
+default_orders_militant = {
+	rank = {
+		1 = GOV_ORDERS_MILITANT
+		2 = GOV_ORDERS_MILITANT
+		3 = GOV_ORDERS_MILITANT
+	}
+
+	ruler_male = {
+		1 = GOV_CANONESS
+		2 = GOV_CANONESS
+		3 = GOV_CANONESS
+	}
+
+	ruler_female = {
+		1 = GOV_CANONESS
+		2 = GOV_CANONESS
+		3 = GOV_CANONESS
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = orders_militant_mechanic
+
+	trigger = {
+		has_reform = orders_militant_mechanic
+	}
+}
+
+#-----------------------------------------------
+# Chaos
+#-----------------------------------------------
+default_traitor_legion = {
+	rank = {
+		1 = GOV_TRAITOR_LEGION
+		2 = GOV_TRAITOR_LEGION
+		3 = GOV_TRAITOR_LEGION
+	}
+
+	ruler_male = {
+		1 = GOV_CHAOS_LORD
+		2 = GOV_CHAOS_LORD
+		3 = GOV_CHAOS_LORD
+	}
+
+	ruler_female = {
+		1 = GOV_CHAOS_LORD
+		2 = GOV_CHAOS_LORD
+		3 = GOV_CHAOS_LORD
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = traitor_legion_mechanic
+
+	trigger = {
+		has_reform = traitor_legion_mechanic
+	}
+}
+default_daemon_horde = {
+	rank = {
+		1 = GOV_DAEMON_HORDE
+		2 = GOV_DAEMON_HORDE
+		3 = GOV_DAEMON_HORDE
+	}
+
+	ruler_male = {
+		1 = GOV_DAEMON_LORD
+		2 = GOV_DAEMON_LORD
+		3 = GOV_DAEMON_LORD
+	}
+
+	ruler_female = {
+		1 = GOV_DAEMON_LORD
+		2 = GOV_DAEMON_LORD
+		3 = GOV_DAEMON_LORD
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = daemon_horde_mechanic
+
+	trigger = {
+		has_reform = daemon_horde_mechanic
+	}
+}
+default_chaos_cult = {
+	rank = {
+		1 = GOV_CHAOS_CULT
+		2 = GOV_CHAOS_CULT
+		3 = GOV_CHAOS_CULT
+	}
+
+	ruler_male = {
+		1 = GOV_HEAD_CULTIST
+		2 = GOV_HEAD_CULTIST
+		3 = GOV_HEAD_CULTIST
+	}
+
+	ruler_female = {
+		1 = GOV_HEAD_CULTIST
+		2 = GOV_HEAD_CULTIST
+		3 = GOV_HEAD_CULTIST
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = chaos_cult_mechanic
+
+	trigger = {
+		has_reform = chaos_cult_mechanic
+	}
+}
+
+#-----------------------------------------------
+# Dark Eldar
+#-----------------------------------------------
+default_kabal = {
+	rank = {
+		1 = GOV_KABAL
+		2 = GOV_KABAL
+		3 = GOV_KABAL
+	}
+
+	ruler_male = {
+		1 = GOV_ARCHON
+		2 = GOV_ARCHON
+		3 = GOV_ARCHON
+	}
+
+	ruler_female = {
+		1 = GOV_ARCHON
+		2 = GOV_ARCHON
+		3 = GOV_ARCHON
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = kabal_mechanic
+
+	trigger = {
+		has_reform = kabal_mechanic
+	}
+}
+default_haemonculi_coven = {
+	rank = {
+		1 = GOV_HAEMONCULI_COVEN
+		2 = GOV_HAEMONCULI_COVEN
+		3 = GOV_HAEMONCULI_COVEN
+	}
+
+	ruler_male = {
+		1 = GOV_MASTER_HAEMONCULUS
+		2 = GOV_MASTER_HAEMONCULUS
+		3 = GOV_MASTER_HAEMONCULUS
+	}
+
+	ruler_female = {
+		1 = GOV_MASTER_HAEMONCULUS
+		2 = GOV_MASTER_HAEMONCULUS
+		3 = GOV_MASTER_HAEMONCULUS
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = haemonculi_coven_mechanic
+
+	trigger = {
+		has_reform = haemonculi_coven_mechanic
+	}
+}
+default_wych_cult = {
+	rank = {
+		1 = GOV_WYCH_CULT
+		2 = GOV_WYCH_CULT
+		3 = GOV_WYCH_CULT
+	}
+
+	ruler_male = {
+		1 = GOV_ARCHITE
+		2 = GOV_ARCHITE
+		3 = GOV_ARCHITE
+	}
+
+	ruler_female = {
+		1 = GOV_SUCCUBUS
+		2 = GOV_SUCCUBUS
+		3 = GOV_SUCCUBUS
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = wych_cult_mechanic
+
+	trigger = {
+		has_reform = wych_cult_mechanic
+	}
+}
+
+#-----------------------------------------------
+# Eldar
+#-----------------------------------------------
+default_craftworld_outpost = {
+	rank = {
+		1 = GOV_CRAFTWORLD_OUTPOST
+		2 = GOV_CRAFTWORLD_OUTPOST
+		3 = GOV_CRAFTWORLD_OUTPOST
+	}
+
+	ruler_male = {
+		1 = GOV_FARSEER
+		2 = GOV_FARSEER
+		3 = GOV_FARSEER
+	}
+
+	ruler_female = {
+		1 = GOV_FARSEER
+		2 = GOV_FARSEER
+		3 = GOV_FARSEER
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = craftworld_outpost_mechanic
+
+	trigger = {
+		has_reform = craftworld_outpost_mechanic
+	}
+}
+
+#-----------------------------------------------
+# Necrons
+#-----------------------------------------------
+default_tomb_world = {
+	rank = {
+		1 = GOV_TOMB_WORLD
+		2 = GOV_TOMB_WORLD
+		3 = GOV_TOMB_WORLD
+	}
+
+	ruler_male = {
+		1 = GOV_NECRON_LORD
+		2 = GOV_NECRON_LORD
+		3 = GOV_NECRON_LORD
+	}
+
+	ruler_female = {
+		1 = GOV_NECRON_LORD
+		2 = GOV_NECRON_LORD
+		3 = GOV_NECRON_LORD
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = tomb_world_mechanic
+
+	trigger = {
+		has_reform = tomb_world_mechanic
+	}
+}
+
+#-----------------------------------------------
+# Orks
+#-----------------------------------------------
+default_ork_clan = {
+	rank = {
+		1 = GOV_CLAN
+		2 = GOV_CLAN
+		3 = GOV_CLAN
+	}
+
+	ruler_male = {
+		1 = GOV_WARBOSS
+		2 = GOV_WARBOSS
+		3 = GOV_WARBOSS
+	}
+
+	ruler_female = {
+		1 = GOV_WARBOSS
+		2 = GOV_WARBOSS
+		3 = GOV_WARBOSS
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = ork_clan_mechanic
+
+	trigger = {
+		has_reform = ork_clan_mechanic
+	}
+}
+
+#-----------------------------------------------
+# Tau
+#-----------------------------------------------
+default_tau_contingent = {
+	rank = {
+		1 = GOV_CONTINGENT
+		2 = GOV_CONTINGENT
+		3 = GOV_CONTINGENT
+	}
+
+	ruler_male = {
+		1 = GOV_TAU_COMMANDER
+		2 = GOV_TAU_COMMANDER
+		3 = GOV_TAU_COMMANDER
+	}
+
+	ruler_female = {
+		1 = GOV_TAU_COMMANDER
+		2 = GOV_TAU_COMMANDER
+		3 = GOV_TAU_COMMANDER
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = tau_contingent_mechanic
+
+	trigger = {
+		has_reform = tau_contingent_mechanic
+	}
+}
+
+#-----------------------------------------------
+# Tyranids
+#-----------------------------------------------
+default_hive_fleet = {
+	rank = {
+		1 = GOV_HIVE_FLEET
+		2 = GOV_HIVE_FLEET
+		3 = GOV_HIVE_FLEET
+	}
+
+	ruler_male = {
+		1 = GOV_SWARMLORD
+		2 = GOV_SWARMLORD
+		3 = GOV_SWARMLORD
+	}
+
+	ruler_female = {
+		1 = GOV_SWARMLORD
+		2 = GOV_SWARMLORD
+		3 = GOV_SWARMLORD
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = hive_fleet_mechanic
+
+	trigger = {
+		has_reform = hive_fleet_mechanic
+	}
+}
+default_genestealer_cult = {
+	rank = {
+		1 = GOV_GENESTEALER_CULT
+		2 = GOV_GENESTEALER_CULT
+		3 = GOV_GENESTEALER_CULT
+	}
+
+	ruler_male = {
+		1 = GOV_PATRIARCH
+		2 = GOV_PATRIARCH
+		3 = GOV_PATRIARCH
+	}
+
+	ruler_female = {
+		1 = GOV_MATRIARCH
+		2 = GOV_MATRIARCH
+		3 = GOV_MATRIARCH
+	}
+    
+	heir_male = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	heir_female = {
+		1 = GOV_SUCCESSOR
+		2 = GOV_SUCCESSOR
+		3 = GOV_SUCCESSOR
+	}
+
+	government_reform = genestealer_cult_mechanic
+
+	trigger = {
+		has_reform = genestealer_cult_mechanic
+	}
+}

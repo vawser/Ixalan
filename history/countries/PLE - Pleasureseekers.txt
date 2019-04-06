@@ -1,0 +1,9 @@
+technology_group = chaos_cultist_tech
+
+government = chaos_cult
+add_government_reform = chaos_cult_reform
+
+religion = slaanesh
+primary_culture = pleasureseekers
+
+capital = 1

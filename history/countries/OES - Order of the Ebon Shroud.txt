@@ -1,0 +1,9 @@
+technology_group = sisters_of_battle_tech
+
+government = orders_militant
+add_government_reform = orders_militant_reform
+
+religion = imperial_cult
+primary_culture = order_of_the_ebon_shroud
+
+capital = 1

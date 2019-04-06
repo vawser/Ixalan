@@ -1,0 +1,9 @@
+technology_group = ork_tech
+
+government = ork_clan
+add_government_reform = ork_clan_reform
+
+religion = gork_and_mork
+primary_culture = deathskulls
+
+capital = 1

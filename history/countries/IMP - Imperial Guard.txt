@@ -1,0 +1,9 @@
+technology_group = imperial_guard_tech
+
+government = astra_militarum
+add_government_reform = astra_militarum_reform
+
+religion = imperial_cult
+primary_culture = imperial_guard
+
+capital = 1

@@ -1,0 +1,45 @@
+﻿l_english:
+ imperial_cult_group: "Imperial Cult"
+ imperial_cult: "Imperial Cult"
+ imperial_cult_religion_desc: "" 
+ 
+ chaos_group: "Chaos"
+ chaos_undivided: "Chaos Undivided"
+ chaos_undivided_religion_desc: ""
+ khorne: "Khorne"
+ khorne_religion_desc: ""
+ tzeentch: "Tzeentch"
+ tzeentch_religion_desc: ""
+ nurgle: "Nurgle"
+ nurgle_religion_desc: ""
+ slaanesh: "Slaanesh"
+ slaanesh_religion_desc: ""
+ 
+ hedonism_group: "Hedonism"
+ hedonism: "Hedonism"
+ hedonism_religion_desc: ""
+ 
+ eldar_pantheon_group: "Eldar Pantheon"
+ eldar_pantheon: "Eldar Pantheon"
+ eldar_pantheon_religion_desc: ""
+ 
+ ctan_group: "C'Tan"
+ ctan: "C'Tan"
+ ctan_religion_desc: ""
+ 
+ gork_and_mork_group: "Gork and Mork"
+ gork_and_mork: "Gork and Mork"
+ gork_and_mork_religion_desc: ""
+
+ greater_good_group: "Greater Good"
+ greater_good: "Greater Good"
+ greater_good_religion_desc: ""
+ 
+ hive_mind_group: "Hive Mind"
+ hive_mind: "Hive Mind"
+ hive_mind_religion_desc: ""
+ 
+ empty_group: "Empty"
+ empty: "Empty"
+ empty_religion_desc: "Nothing here."
+ 

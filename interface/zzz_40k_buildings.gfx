@@ -1,0 +1,188 @@
+spriteTypes = {	
+    #-------------------------
+    # Default
+    #-------------------------
+    spriteType = {
+		name = "GFX_trade_sector_1"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_trade_sector_2"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_trade_sector_3"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_trade_sector_4"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_trade_sector_5"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    
+    spriteType = {
+		name = "GFX_manufacturing_sector_1"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_manufacturing_sector_2"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_manufacturing_sector_3"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_manufacturing_sector_4"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_manufacturing_sector_5"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    
+    spriteType = {
+		name = "GFX_residential_sector_1"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_residential_sector_2"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_residential_sector_3"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_residential_sector_4"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_residential_sector_5"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    
+    spriteType = {
+		name = "GFX_military_sector_1"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_military_sector_2"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_military_sector_3"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_military_sector_4"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_military_sector_5"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    
+    spriteType = {
+		name = "GFX_bunker_1"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_bunker_2"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_bunker_3"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_bunker_4"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    spriteType = {
+		name = "GFX_bunker_5"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    
+    spriteType = {
+		name = "GFX_factory"
+		texturefile = "gfx//interface//buildings//default.dds"
+		loadType = "INGAME"
+	}
+    
+    #-------------------------
+    # Imperial Guard
+    #-------------------------
+    
+    #-------------------------
+    # Space Marines
+    #-------------------------
+    
+    #-------------------------
+    # Sisters of Battle
+    #-------------------------
+    
+    #-------------------------
+    # Chaos Marines
+    #-------------------------
+    
+    #-------------------------
+    # Daemons
+    #-------------------------
+    
+    #-------------------------
+    # Chaos Cultists
+    #-------------------------
+    
+    #-------------------------
+    # Dark Eldar
+    #-------------------------
+    
+    #-------------------------
+    # Eldar
+    #-------------------------
+    
+    #-------------------------
+    # Necrons
+    #-------------------------
+    
+    #-------------------------
+    # Orks
+    #-------------------------
+    
+    #-------------------------
+    # Tau
+    #-------------------------
+    
+    #-------------------------
+    # Tyranids
+    #-------------------------
+}

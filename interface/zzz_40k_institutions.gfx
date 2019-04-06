@@ -1,0 +1,17 @@
+spriteTypes = {	
+    #-------------------------
+    # Institutions
+    #-------------------------
+    # spriteType = {
+		# name = "GFX_icon_institution_westerosi_practices"
+		# texturefile = "gfx//interface//institutions//westeros_icon.dds"
+		# loadType = "INGAME"
+		# transparencecheck = yes
+	# }	
+    # spriteType = {
+		# name = "GFX_institution_tab_westerosi_practices"
+		# texturefile = "gfx/interface/institutions//westeros_tab.dds"
+		# noOfFrames = 2
+		# transparencecheck = yes
+	# }
+}

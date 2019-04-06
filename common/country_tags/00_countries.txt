@@ -1,0 +1,102 @@
+#--------------------
+# Core
+#--------------------
+REB = "countries/Rebels.txt"
+PIR = "countries/Pirates.txt"
+NAT = "countries/Natives.txt"
+
+# Religion, Government, Technology Group/Unit Type
+
+#--------------------
+# Imperium
+#--------------------
+IMP	= "countries/IMP - Imperial Guard.txt"  # Imperial Guard    (Imperial Cult, Imperial Guard Regiment, Imperial Guard)
+
+# Marines:
+BLK	= "countries/BLK - Black Templars.txt"  # Black Templars    (Imperial Cult, Imperial Chapter, Black Templars)
+BLO	= "countries/BLO - Blood Angels.txt"  # Blood Angels      (Imperial Cult, Imperial Chapter, Blood Angels)
+DKA	= "countries/DKA - Dark Angels.txt"  # Dark Angels       (Imperial Cult, Imperial Chapter, Dark Angels)
+GKT	= "countries/GKT - Grey Knights.txt"  # Grey Knights      (Imperial Cult, Imperial Chapter, Grey Knights)
+IMF	= "countries/IMF - Imperial Fists.txt"  # Imperial Fists    (Imperial Cult, Imperial Chapter, Imperial Fists)
+IRH	= "countries/IRH - Iron Hands.txt"  # Iron Hands        (Imperial Cult, Imperial Chapter, Iron Hands)
+SPW	= "countries/SPW - Space Wolves.txt"  # Space Wolves      (Imperial Cult, Imperial Chapter, Space Wolves)
+ULT	= "countries/ULT - Ultramarines.txt"  # Ultramarines    (Imperial Cult, Imperial Chapter, Ultramarines)
+DWT	= "countries/DWT - Deathwatch.txt"  # Deathwatch        (Imperial Cult, Imperial Chapter, Deathwatch)
+RVG	= "countries/RVG - Raven Guard.txt"  # Raven Guard       (Imperial Cult, Imperial Chapter, Raven Guard)
+SAL	= "countries/SAL - Salamanders.txt"  # Salamanders       (Imperial Cult, Imperial Chapter, Salamanders)
+WTS	= "countries/WTS - White Scars.txt"  # White Scars       (Imperial Cult, Imperial Chapter, White Scars)
+
+# Sisters:
+OES	= "countries/OES - Order of the Ebon Shroud.txt"  # Order of the Ebon Shroud  (Imperial Cult, Imperial Order, Sisters of Battle)
+OBO	= "countries/OBO - Order of the Burning Oath.txt"  # Order of the Burning Oath (Imperial Cult, Imperial Order, Sisters of Battle)
+
+#--------------------
+# Chaos
+#--------------------
+# Marines:
+BKL	= "countries/BKL - Black Legion.txt"  # Black Legion          (Chaos Undivided, Chaos Chapter, Black Legion)
+WET	= "countries/WET - World Eaters.txt"  # World Eaters          (Khorne, Chaos Chapter, World Eaters)
+TSO	= "countries/TSO - Thousand Sons.txt"  # Thousand Sons         (Tzeentch, Chaos Chapter, Thousand Sons)
+DGD	= "countries/DGD - Death Guard.txt"  # Death Guard           (Nurgle, Chaos Chapter, Death Guard)
+EMC	= "countries/EMC - Emperor's Children.txt"  # Emperor's Children    (Slaanesh, Chaos Chapter, Emperor's Children)
+WBS	= "countries/WBS - Word Bearers.txt"  # Word Bearers          (Chaos Undivided, Chaos Chapter, Word Bearers)
+IWR	= "countries/IWR - Iron Warriors.txt"  # Iron Warriors         (Chaos Undivided, Chaos Chapter, Iron Warriors)
+APL	= "countries/APL - Alpha Legion.txt"  # Alpha Legion          (Chaos Undivided, Chaos Chapter, Alpha Legion)
+NLD	= "countries/NLD - Night Lords.txt"  # Night Lords           (Chaos Undivided, Chaos Chapter, Night Lords)
+
+# Daemons:
+IFH	= "countries/IFH - Infernal Horde.txt"  # Infernal Horde        (Daemon, Daemon Cult, Daemon)
+SOU	= "countries/SOU - Soulmaw.txt"  # Soulmaw               (Daemon, Daemon Cult, Daemon)
+
+# Cults:
+BOB	= "countries/BOB - Blood Brotherhood.txt"  # Blood Brotherhood     (Khorne, Chaos Cult, Khorne Cultist)
+JAO	= "countries/JAO - Jagged Oath.txt"  # Jagged Oath           (Khorne, Chaos Cult, Khorne Cultist)
+GVP	= "countries/GVP - Ghol Voluptara.txt"  # Ghol Voluptara        (Tzeentch, Chaos Cult, Tzeentch Cultist)
+LSP	= "countries/LSP - Lost Spiral.txt"  # Lost Spiral           (Tzeentch, Chaos Cult, Tzeentch Cultist)
+GOL	= "countries/GOL - Givers of Life.txt"  # Givers of Life        (Nurgle, Chaos Cult, Nurgle Cultist)
+CTB	= "countries/CTB - Cult Tenebrous.txt"  # Cult Tenebrous        (Nurgle, Chaos Cult, Nurgle Cultist)
+PLE	= "countries/PLE - Pleasureseekers.txt"  # Pleasureseekers       (Slaanesh, Chaos Cult, Slaanesh Cultist)
+BLI	= "countries/BLI - Bliss Cult.txt"  # Bliss Cult            (Slaanesh, Chaos Cult, Slaanesh Cultist)
+
+#--------------------
+# Dark Eldar
+#--------------------
+KBH	= "countries/KBH - Kabal of the Black Heart.txt"  # Kabal of the Black Heart      (Hedonism, Kabal, Dark Eldar)
+KFM	= "countries/KFM - Kabal of the Falling Moon.txt"  # Kabal of the Falling Moon     (Hedonism, Kabal, Dark Eldar)
+TES	= "countries/TES - The Ebon Sting.txt"  # The Ebon Sting                (Hedonism, Haemonculi Coven, Dark Eldar)
+COG	= "countries/COG - Cult of Grief.txt"  # Cult of Grief                 (Hedonism, Wych Cult, Dark Eldar)
+
+#--------------------
+# Eldar
+#--------------------
+ALA	= "countries/ALA - Alaitoc.txt"  # Alaitoc   (Eldar Pantheon, Aspect, Eldar)
+BIE	= "countries/BIE - Biel-tan.txt"  # Biel-tan  (Eldar Pantheon, Aspect, Eldar)
+SAM	= "countries/SAM - Saim-Hann.txt"  # Saim-Hann (Eldar Pantheon, Aspect, Eldar)
+ULW	= "countries/ULW - Ulthwe.txt"  # Ulthwé    (Eldar Pantheon, Aspect, Eldar)
+
+#--------------------
+# Necrons
+#--------------------
+NEC	= "countries/NEC - Necrons.txt"  # Necrons   (C'tan, Tomb, Necron)
+
+#--------------------
+# Orks
+#--------------------
+BMO	= "countries/BMO - Bad Moons.txt"  # Bad Moons     (Gork and Mork, Clan, Ork)
+BOX	= "countries/BOX - Blood Axes.txt"  # Blood Axes    (Gork and Mork, Clan, Ork)
+DSK	= "countries/DSK - Deathskulls.txt"  # Deathskulls   (Gork and Mork, Clan, Ork)
+EVS	= "countries/EVS - Evil Sunz.txt"  # Evil Sunz     (Gork and Mork, Clan, Ork)
+GOF	= "countries/GOF - Goffs.txt"  # Goffs         (Gork and Mork, Clan, Ork)
+SKB	= "countries/SKB - Snakebites.txt"  # Snakebites    (Gork and Mork, Clan, Ork)
+
+#--------------------
+# Tau
+#--------------------
+KOR	= "countries/KOR - Kor'tai Cadre.txt"  # Kor'tai Cadre (Greater Good, Cadre, Tau)
+
+#--------------------
+# Tyranids
+#--------------------
+KRA	= "countries/KRA - Kraken.txt"  # Kraken            (Hive Mind, Hive Fleet, Tyranid)
+COI	= "countries/COI - Cult of Ixalan.txt"  # Cult of Ixalan    (Hive Mind, Genestealer Cult, Genestealer)
+

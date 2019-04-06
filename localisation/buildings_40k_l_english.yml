@@ -1,0 +1,35 @@
+﻿l_english:
+ #-----------------------------
+ # Buildings
+ #-----------------------------
+ building_trade_sector_1: "Trade Sector I"
+ building_trade_sector_2: "Trade Sector II"
+ building_trade_sector_3: "Trade Sector III"
+ building_trade_sector_4: "Trade Sector IV"
+ building_trade_sector_5: "Trade Sector V"
+ 
+ building_manufacturing_sector_1: "Manufacturing Sector I"
+ building_manufacturing_sector_2: "Manufacturing Sector II"
+ building_manufacturing_sector_3: "Manufacturing Sector III"
+ building_manufacturing_sector_4: "Manufacturing Sector IV"
+ building_manufacturing_sector_5: "Manufacturing Sector V"
+ 
+ building_residential_sector_1: "Residential Sector I"
+ building_residential_sector_2: "Residential Sector II"
+ building_residential_sector_3: "Residential Sector III"
+ building_residential_sector_4: "Residential Sector IV"
+ building_residential_sector_5: "Residential Sector V" 
+ 
+ building_military_sector_1: "Military Sector I"
+ building_military_sector_2: "Military Sector II"
+ building_military_sector_3: "Military Sector III"
+ building_military_sector_4: "Military Sector IV"
+ building_military_sector_5: "Military Sector V"
+ 
+ building_bunker_1: "Fortification I"
+ building_bunker_2: "Fortification II"
+ building_bunker_3: "Fortification III"
+ building_bunker_4: "Fortification IV"
+ building_bunker_5: "Fortification V"
+ 
+ building_factory: "Factory"

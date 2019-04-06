@@ -1,0 +1,37 @@
+﻿l_english:
+ imperial_guard_tech: "Imperial Guard"
+ imperial_guard_tech_desc: "With the Imperial Guard technology group, technology levels are standard cost (100%)."
+ 
+ space_marine_tech: "Space Marine"
+ space_marine_tech_desc: "With the Space Marine technology group, technology levels are standard cost (100%)."
+ 
+ sisters_of_battle_tech: "Sisters of Battle"
+ sisters_of_battle_tech_desc: "With the Sisters of Battle technology group, technology levels are standard cost (100%)."
+ 
+ chaos_marine_tech: "Chaos Marine"
+ chaos_marine_tech_desc: "With the Chaos Marine technology group, technology levels are standard cost (100%)."
+ 
+ daemon_tech: "Daemon"
+ daemon_tech_desc: "With the Daemon technology group, technology levels are standard cost (100%)."
+ 
+ chaos_cultist_tech: "Chaos Cultist"
+ chaos_cultist_tech_desc: "With the Chaos Cultist technology group, technology levels are standard cost (100%)."
+ 
+ dark_eldar_tech: "Dark Eldar"
+ dark_eldar_tech_desc: "With the Dark Eldar technology group, technology levels are standard cost (100%)."
+ 
+ eldar_tech: "Eldar"
+ eldar_tech_desc: "With the Eldar technology group, technology levels are standard cost (100%)."
+
+ necron_tech: "Necron"
+ necron_tech_desc: "With the Necron technology group, technology levels are standard cost (100%)."
+ 
+ ork_tech: "Ork"
+ ork_tech_desc: "With the Ork technology group, technology levels are standard cost (100%)."
+ 
+ tau_tech: "Tau"
+ tau_tech_desc: "With the Tau technology group, technology levels are standard cost (100%)."
+ 
+ tyranid_tech: "Tyranid"
+ tyranid_tech_desc: "With the Tyranid technology group, technology levels are standard cost (100%)."
+ 

@@ -1,0 +1,99 @@
+spriteTypes = {	
+    #-------------------------
+    # Natives
+    #-------------------------
+    # spriteType = {
+		# name = "GFX_natives"
+		# texturefile = "gfx//interface//gameplay//natives.dds"
+		# noOfFrames = 30
+		# loadType = "INGAME"
+	# }
+    
+    #-------------------------
+    # Unit Types
+    #-------------------------
+    # spriteType = {	
+		# name = "GFX_unit_types_strip_mil_view"
+		# texturefile = "gfx//interface//ui//icons//unit_types_strip.tga"
+		# noOfFrames = 9
+		# loadType = "INGAME"
+		# effectFile = "gfx/FX/buttonstate.lua"
+		# transparencecheck = no
+	# }
+	
+	# spriteType = {	
+		# name = "GFX_unit_types_strip_mil_center_view"
+		# texturefile = "gfx//interface//ui//icons//unit_types_center_strip.tga"
+		# noOfFrames = 8
+		# loadType = "INGAME"
+		# effectFile = "gfx/FX/buttonstate.lua"
+		# transparencecheck = no
+	# }
+
+    # spriteType = {	
+		# name = "GFX_unit_types_strip"
+		# texturefile = "gfx//interface//ui//icons//unit_types_strip.tga"
+		# noOfFrames = 9
+		# loadType = "INGAME"
+		# effectFile = "gfx/FX/buttonstate.lua"
+		# allwaystransparent = yes
+	# }
+
+	# spriteType = {	
+		# name = "GFX_unit_types_strip_nontransp"
+		# texturefile = "gfx//interface//ui//icons//unit_types_strip.tga"
+		# noOfFrames = 9
+		# loadType = "INGAME"
+		# effectFile = "gfx/FX/buttonstate.lua"
+	# }
+    
+    # spriteType = {	
+		# name = "GFX_unit_types_strip_bg"
+		# texturefile = "gfx//interface//ui//icons//unit_types_strip_bg.dds"
+		# noOfFrames = 9
+		# loadType = "INGAME"
+		
+		# effectFile = "gfx/FX/buttonstate.lua"
+		# transparencecheck = no
+	# }
+    
+    #-------------------------
+    # Centers of Trade
+    #-------------------------
+    # spriteType = {
+		# name = "GFX_center_of_trade_inland_1"
+		# texturefile = "gfx//interface//cot_icons//cot_settlement.dds"
+		# loadType = "INGAME"
+	# }
+
+	# spriteType = {
+		# name = "GFX_center_of_trade_inland_2"
+		# texturefile = "gfx//interface//cot_icons//cot_town.dds"
+		# loadType = "INGAME"
+	# }
+
+	# spriteType = {
+		# name = "GFX_center_of_trade_inland_3"
+		# texturefile = "gfx//interface//cot_icons//cot_metropolis.dds"
+		# loadType = "INGAME"
+	# }
+
+	# spriteType = {
+		# name = "GFX_center_of_trade_coastal_1"
+		# texturefile = "gfx//interface//cot_icons//cot_settlement.dds"
+		# loadType = "INGAME"
+	# }
+
+	# spriteType = {
+		# name = "GFX_center_of_trade_coastal_2"
+		# texturefile = "gfx//interface//cot_icons//cot_town.dds"
+		# loadType = "INGAME"
+	# }
+
+	# spriteType = {
+		# name = "GFX_center_of_trade_coastal_3"
+		# texturefile = "gfx//interface//cot_icons//cot_metropolis.dds"
+		# loadType = "INGAME"
+	# }
+}
+

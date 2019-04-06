@@ -1,0 +1,77 @@
+spriteTypes = {	
+    #-------------------------
+    # Advisors
+    #-------------------------
+    spriteType = {
+        name = "GFX_advisor_noAdvisorType"
+        texturefile = "gfx//interface//advisors//blank.dds"
+        noOfFrames = 1
+        effectFile = "gfx/FX/buttonstate.lua"
+        loadType = "INGAME"
+    }
+    spriteType = {
+        name = "GFX_advisor_noAdvisorType_female"
+        texturefile = "gfx//interface//advisors//blank.dds"
+        noOfFrames = 1
+        norefcount = yes
+        effectFile = "gfx/FX/buttonstate.lua"
+        loadType = "INGAME"
+    }
+    
+    #-------------------------
+    # Imperial
+    #-------------------------
+    # spriteType = {
+        # name = "GFX_advisor_artist"
+        # texturefile = "gfx//interface//advisors//blank_filled.dds"
+        # noOfFrames = 1
+        # norefcount = yes
+        # effectFile = "gfx/FX/buttonstate.lua"
+        # loadType = "INGAME"
+    # }
+ 
+    #-------------------------
+    # Space Marines
+    #-------------------------
+    
+    #-------------------------
+    # Sisters of Battle
+    #-------------------------
+    
+    #-------------------------
+    # Chaos Marines
+    #-------------------------
+    
+    #-------------------------
+    # Daemons
+    #-------------------------
+    
+    #-------------------------
+    # Chaos Cultists
+    #-------------------------
+    
+    #-------------------------
+    # Dark Eldar
+    #-------------------------
+    
+    #-------------------------
+    # Eldar
+    #-------------------------
+    
+    #-------------------------
+    # Necrons
+    #-------------------------
+    
+    #-------------------------
+    # Orks
+    #-------------------------
+    
+    #-------------------------
+    # Tau
+    #-------------------------
+    
+    #-------------------------
+    # Tyranids
+    #-------------------------
+}
+

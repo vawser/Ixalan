@@ -1,0 +1,784 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+imperial_guard_group = {
+	graphical_culture = imperial_guard_gfx
+
+	male_names = { Name }
+	
+	imperial_guard = {
+		primary = IMP
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+}
+
+space_marine_group = {
+	graphical_culture = space_marine_gfx
+
+	male_names = { Name }
+	
+	black_templars = {
+		primary = BLK
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    blood_angels = {
+		primary = BLO
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    dark_angels = {
+		primary = DKA
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    grey_knights = {
+		primary = GKT
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    imperial_fists = {
+		primary = IMF
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    iron_hands = {
+		primary = IRH
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    space_wolves = {
+		primary = SPW
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    ultramarines = {
+		primary = ULT
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    deathwatch = {
+		primary = DWT
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    raven_guard = {
+		primary = RVG
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    salamanders = {
+		primary = SAL
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    white_scars = {
+		primary = WTS
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+}
+
+sisters_of_battle_group = {
+	graphical_culture = sisters_of_battle_gfx
+
+	male_names = { Name }
+	
+	order_of_the_ebon_shroud = {
+		primary = OES
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    order_of_the_burning_oath = {
+		primary = OBO
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+}
+
+chaos_marine_group = {
+	graphical_culture = chaos_marine_gfx
+
+	male_names = { Name }
+	
+	black_legion = {
+		primary = BKL
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    world_eaters = {
+		primary = WET
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    thousand_sons = {
+		primary = TSO
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    death_guard = {
+		primary = DGD
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    emperors_children = {
+		primary = EMC
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    word_bearers = {
+		primary = WBS
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    iron_warriors = {
+		primary = IWR
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    alpha_legion = {
+		primary = APL
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    night_lords = {
+		primary = NLD
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+}
+
+daemon_group = {
+	graphical_culture = daemon_gfx
+
+	male_names = { Name }
+	
+	infernal_horde = {
+		primary = IFH
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    soulmaw = {
+		primary = SOU
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+}
+
+chaos_cultist_group = {
+	graphical_culture = chaos_cultist_gfx
+
+	male_names = { Name }
+	
+	blood_brotherhood = {
+		primary = BOB
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    jagged_oath = {
+		primary = JAO
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    ghol_voluptara = {
+		primary = GVP
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    lost_spiral = {
+		primary = LSP
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    givers_of_life = {
+		primary = GOL
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    cult_tenebrous = {
+		primary = CTB
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    pleasureseekers = {
+		primary = PLE
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    bliss_cult = {
+		primary = BLI
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+}
+
+dark_eldar_group = {
+	graphical_culture = dark_eldar_gfx
+
+	male_names = { Name }
+	
+	kabal_of_the_black_heart = {
+		primary = KBH
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    kabal_of_the_falling_moon = {
+		primary = KFM
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    the_ebon_sting = {
+		primary = TES
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    cult_of_grief = {
+		primary = COG
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+}
+
+eldar_group = {
+	graphical_culture = eldar_gfx
+
+	male_names = { Name }
+	
+	alaitoc = {
+		primary = ALA
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    biel_tan = {
+		primary = BIE
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    saim_hann = {
+		primary = SAM
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    ulthwe = {
+		primary = ULW
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+}
+
+necron_group = {
+	graphical_culture = necron_gfx
+
+	male_names = { Name }
+	
+	necron = {
+		primary = NEC
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+}
+
+ork_group = {
+	graphical_culture = ork_gfx
+
+	male_names = { Name }
+	
+	bad_moons = {
+		primary = BMO
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    blood_axes = {
+		primary = BOX
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    deathskulls = {
+		primary = DSK
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    evil_sunz = {
+		primary = EVS
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    goffs = {
+		primary = GOF
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    snakebites = {
+		primary = SKB
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+}
+
+tau_group = {
+	graphical_culture = tau_gfx
+
+	male_names = { Name }
+	
+	kor_tai = {
+		primary = KOR
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+}
+
+tyranid_group = {
+	graphical_culture = tyranid_gfx
+
+	male_names = { Name }
+	
+	kraken = {
+		primary = KRA
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+    genestealer = {
+		primary = COI
+        
+		male_names = {
+			Name
+		}
+		female_names = {
+			Name
+		}
+		dynasty_names = {
+			"Surname"
+		}
+	}
+}
+
+barren_group = {
+    graphical_culture = tyranid_gfx
+
+	barren = {
+		male_names = {
+			John
+		}
+		female_names = {
+			Mary
+		}
+		dynasty_names = {
+			"Smith"
+		}
+	}
+}

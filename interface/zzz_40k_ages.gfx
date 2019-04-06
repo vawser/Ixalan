@@ -1,0 +1,17 @@
+spriteTypes = {	
+    #--------------------------
+    # Ages
+    #--------------------------
+    spriteType = {
+		name = "GFX_conquest_of_ixalan"
+		texturefile = "gfx/interface/ages/conquest_of_ixalan.dds"
+	}
+    
+    #--------------------------
+    # Abilities
+    #--------------------------
+    # spriteType = {
+		# name = "GFX_ab_army_tradition"
+		# texturefile = "gfx//interface//ages//ab_army_tradition.dds"
+	# }
+}

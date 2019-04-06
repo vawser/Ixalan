@@ -1,0 +1,9 @@
+technology_group = necron_tech
+
+government = tomb_world
+add_government_reform = tomb_world_reform
+
+religion = ctan
+primary_culture = necron
+
+capital = 1

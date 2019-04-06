@@ -1,0 +1,9 @@
+technology_group = tau_tech
+
+government = tau_contingent
+add_government_reform = tau_contingent_reform
+
+religion = greater_good
+primary_culture = kor_tai
+
+capital = 1

@@ -1,0 +1,116 @@
+spriteTypes = {	
+    #--------------------------
+    # Icons
+    #--------------------------
+    spriteType = {
+		name = "GFX_icon_religion"
+		texturefile = "gfx//interface//gameplay//icon_religion.tga"             # 64px
+		noOfFrames = 13
+		norefcount = yes
+	}
+	spriteType = {
+		name = "GFX_icon_religion_small"
+		texturefile = "gfx//interface//gameplay//icon_religion_small.tga"       # 32px
+		noOfFrames = 13
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_religion_icon_strip"
+		texturefile = "gfx//interface//gameplay//icon_religion_small.dds"       # 32px
+		transparencecheck = yes
+		noOfFrames = 13
+	}
+	spriteType = {
+		name = "GFX_province_view_religion"
+		texturefile = "gfx//interface//gameplay//province_view_religion.tga"    # 44px
+		noOfFrames = 13
+		loadType = "INGAME"
+		allwaystransparent = yes
+	}
+    spriteType = {
+		name = "GFX_country_icon_religion"
+		texturefile = "gfx//interface//gameplay//country_icon_religion.dds"   # 56px
+		noOfFrames = 13
+	}
+    
+    #--------------------------
+    # Piety
+    #--------------------------
+    # spriteType = {
+		# name = "GFX_piety_icon_high"
+		# texturefile = "gfx/interface/piety_icon_high.dds"
+	# }
+    
+    # spriteType = {
+		# name = "GFX_piety_icon_low"
+		# texturefile = "gfx/interface/piety_icon_low.dds"
+	# }
+    
+    #--------------------------
+    # Personal Deities
+    #--------------------------
+    # spriteType = {
+		# name = "GFX_hindu_deities_strip"
+		# texturefile = "gfx//interface//banner_green_194.dds"
+		# noOfFrames = 1
+	# }
+    
+    #--------------------------
+    # Fetishist Cults
+    #--------------------------
+    # spriteType = {
+		# name = "GFX_fetishists_strip"
+		# texturefile = "gfx//interface//fetishists_strip.dds"
+		# noOfFrames = 17
+	# }
+    
+    #--------------------------
+    # Harmony
+    #--------------------------
+    # spriteType = {
+		# name = "GFX_low_harmony"
+		# texturefile = "gfx/interface/low_harmony.dds"
+	# }
+    # spriteType = {
+		# name = "GFX_high_harmony"
+		# texturefile = "gfx/interface/high_harmony.dds"
+	# }	
+    
+    #--------------------------
+    # Karma
+    #--------------------------
+    # spriteType = {
+		# name = "GFX_low_karma"
+		# texturefile = "gfx/interface/low_karma.dds"
+	# }
+	# spriteType = {
+		# name = "GFX_high_karma"
+		# texturefile = "gfx/interface/high_karma.dds"
+	# }
+    
+    #--------------------------
+    # Orthodox 
+    #--------------------------
+    # spriteType = {
+		# name = "GFX_russian_icons_strip"
+		# texturefile = "gfx//interface//orthodox_icon_strip.dds"
+		# noOfFrames = 20
+	# }	
+	# spriteType = {
+		# name = "GFX_patriarchy_slot"
+		# texturefile = "gfx//interface//gameplay//patriarchy_slot.dds"
+	# }	
+	# spriteType = {
+		# name = "GFX_patriarch_icon"
+		# texturefile = "gfx//interface//gameplay//patriarch_icon.dds"
+		# noOfFrames = 2
+	# }
+    
+    #--------------------------
+    # Religious Schools
+    #--------------------------
+    # spriteType = {
+		# name = "GFX_icon_speciality_chems"
+		# texturefile = "gfx/interface/religion/speciality_chems.dds"
+	# }
+}

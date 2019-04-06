@@ -1,0 +1,90 @@
+
+debug_institution = {
+	penalty = 0.5
+	trade_company_efficiency = 0.0
+	bonus = {
+		free_leader_pool = 1
+	}
+
+
+	history = {
+		always = yes
+	}
+	
+	# no need for events, as its there from the start.
+	#can_start = {	is_year = 1000	}
+	#start_chance = 100
+	#on_start = institution_events.1
+
+	can_embrace = {
+		always = yes
+	}
+
+	embracement_speed = {
+		modifier = {
+			factor = 0.5
+			scale = yes
+			custom_trigger_tooltip = {
+				tooltip = FRIENDLY_NEIGHBOR_OR_COAST_PROVINCE_HAS_EMBRACED
+				any_friendly_coast_border_province = {
+					debug_institution = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.1
+			scale = yes
+			custom_trigger_tooltip = {
+				tooltip = NEIGHBOR_NOT_OWNED_IS_FEUDAL
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+					debug_institution = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			potential = {
+				owner = {
+					is_colonial_nation = yes
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = PORT_OR_CAPITAL_IN_COLONY_FEUDAL
+				OR = {
+					has_port = yes
+					is_capital = yes
+				}
+				owner = {
+					is_colonial_nation = yes
+					overlord = { has_institution = debug_institution }
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			potential = {
+				owner = {
+					has_institution = debug_institution
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_feudalism_embraced
+				owner = {
+					has_institution = debug_institution
+				}
+			}
+		}
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+	}
+}

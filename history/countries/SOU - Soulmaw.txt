@@ -1,0 +1,9 @@
+technology_group = daemon_tech
+
+government = daemon_horde
+add_government_reform = daemon_horde_reform
+
+religion = chaos_undivided
+primary_culture = soulmaw
+
+capital = 1

@@ -1,0 +1,168 @@
+#-----------------------------------------------
+# Imperium
+#-----------------------------------------------
+astra_militarum_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = astra_militarum_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+space_marine_chapter_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = space_marine_chapter_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+orders_militant_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = orders_militant_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+
+#-----------------------------------------------
+# Chaos
+#-----------------------------------------------
+traitor_legion_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = traitor_legion_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+daemon_horde_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = daemon_horde_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+chaos_cult_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = chaos_cult_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+
+#-----------------------------------------------
+# Dark Eldar
+#-----------------------------------------------
+kabal_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = kabal_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+haemonculi_coven_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = haemonculi_coven_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+wych_cult_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = wych_cult_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+
+#-----------------------------------------------
+# Eldar
+#-----------------------------------------------
+craftworld_outpost_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = craftworld_outpost_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+
+#-----------------------------------------------
+# Necrons
+#-----------------------------------------------
+tomb_world_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = tomb_world_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+
+#-----------------------------------------------
+# Orks
+#-----------------------------------------------
+ork_clan_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = ork_clan_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+
+#-----------------------------------------------
+# Tau
+#-----------------------------------------------
+tau_contingent_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = tau_contingent_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+
+#-----------------------------------------------
+# Tyranids
+#-----------------------------------------------
+hive_fleet_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = hive_fleet_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+genestealer_cult_reform = {
+	icon = "castle"
+    
+    allow_normal_conversion = yes
+    legacy_equivalent = genestealer_cult_legacy
+    
+    valid_for_nation_designer = yes
+	nation_designer_cost = 0
+}
+
+

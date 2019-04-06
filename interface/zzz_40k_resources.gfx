@@ -1,0 +1,25 @@
+spriteTypes = {	
+    #--------------------------
+    # Icons
+    #--------------------------
+    # spriteType = {
+		# name = "GFX_resource_icon"
+		# texturefile = "gfx//interface//gameplay//resources.tga"               # 64px
+		# noOfFrames = 12
+		# loadType = "INGAME"
+	# }
+	# spriteType = {
+		# name = "GFX_resource_icon_transparent"
+		# texturefile = "gfx//interface//gameplay//resources.tga"               # 64px
+		# noOfFrames = 12
+		# loadType = "INGAME"
+		# allwaystransparent = yes
+	# }
+	# spriteType = {
+		# name = "GFX_resource_icon_small"
+		# texturefile = "gfx//interface//gameplay//resources_small.dds"         # 32px
+		# noOfFrames = 12
+		# loadType = "INGAME"
+	# }	
+}
+

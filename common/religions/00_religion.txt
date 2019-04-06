@@ -1,0 +1,124 @@
+# If you add religions, and use those tags, do not change them without changing everywhere they are used.
+
+# Uses all 'modifiers' possible thats exported as a Modifier.
+
+imperial_cult_group = {
+	defender_of_faith = no
+    
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 41 }
+    
+	imperial_cult = {
+		color = { 255 255 255 }
+		icon = 1
+    }
+}
+
+chaos_group = {
+	defender_of_faith = no
+
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 42 61 }
+    
+	chaos_undivided = {
+		color = { 255 255 255 }
+		icon = 2
+    }
+    khorne = {
+		color = { 255 255 255 }
+		icon = 3
+    }
+    tzeentch = {
+		color = { 255 255 255 }
+		icon = 4
+    }
+    nurgle = {
+		color = { 255 255 255 }
+		icon = 5
+    }
+    slaanesh = {
+		color = { 255 255 255 }
+		icon = 6
+    }
+}
+
+hedonism_group = {
+	defender_of_faith = no
+
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 101 102 }
+    
+	hedonism = {
+		color = { 255 255 255 }
+		icon = 7
+    }
+}
+
+eldar_pantheon_group = {
+	defender_of_faith = no
+
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 62 79 }
+    
+	eldar_pantheon = {
+		color = { 255 255 255 }
+		icon = 8
+    }
+}
+
+ctan_group = {
+	defender_of_faith = no
+
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 100 100 }
+    
+	ctan = {
+		color = { 255 255 255 }
+		icon = 9
+    }
+}
+
+gork_and_mork_group = {
+	defender_of_faith = no
+
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 80 97 }
+    
+	gork_and_mork = {
+		color = { 255 255 255 }
+		icon = 10
+    }
+}
+
+greater_good_group = {
+	defender_of_faith = no
+
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 103 103 }
+    
+	greater_good = {
+		color = { 255 255 255 }
+		icon = 11
+    }
+}
+
+hive_mind_group = {
+	defender_of_faith = no
+
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 98 99 }
+    
+	hive_mind = {
+		color = { 255 255 255 }
+		icon = 12
+    }
+}
+
+empty_group = {
+	defender_of_faith = no
+
+	empty = {
+		color = { 255 255 255 }
+		icon = 13
+    }
+}

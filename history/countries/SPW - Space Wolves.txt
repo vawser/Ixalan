@@ -1,0 +1,9 @@
+technology_group = space_marine_tech
+
+government = space_marine_chapter
+add_government_reform = space_marine_chapter_reform
+
+religion = imperial_cult
+primary_culture = space_wolves
+
+capital = 1

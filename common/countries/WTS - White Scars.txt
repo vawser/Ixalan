@@ -1,0 +1,32 @@
+#Country Name: Please see filename.
+graphical_culture = space_marine_gfx
+
+color = { 250 250 250 }
+
+historical_idea_groups = {
+
+}
+
+historical_units = {
+
+}
+
+monarch_names = {
+	"John #0" = 100
+}
+
+leader_names = {
+	Smith
+}
+
+ship_names = {
+	
+}
+
+army_names = {
+	"Army of $PROVINCE$" 
+}
+
+fleet_names = {
+    
+}

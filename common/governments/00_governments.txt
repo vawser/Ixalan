@@ -1,0 +1,279 @@
+#-----------------------------------------------
+# Imperium
+#-----------------------------------------------
+astra_militarum = {
+    basic_reform = astra_militarum_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                astra_militarum_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        astra_militarum_legacy
+	}
+}
+space_marine_chapter = {
+    basic_reform = space_marine_chapter_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                space_marine_chapter_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        space_marine_chapter_legacy
+	}
+}
+orders_militant = {
+    basic_reform = orders_militant_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                orders_militant_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        orders_militant_legacy
+	}
+}
+#-----------------------------------------------
+# Chaos
+#-----------------------------------------------
+traitor_legion = {
+    basic_reform = traitor_legion_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                traitor_legion_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        traitor_legion_legacy
+	}
+}
+daemon_horde = {
+    basic_reform = daemon_horde_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                daemon_horde_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        daemon_horde_legacy
+	}
+}
+chaos_cult = {
+    basic_reform = chaos_cult_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                chaos_cult_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        chaos_cult_legacy
+	}
+}
+#-----------------------------------------------
+# Dark Eldar
+#-----------------------------------------------
+kabal = {
+    basic_reform = kabal_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                kabal_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        kabal_legacy
+	}
+}
+haemonculi_coven = {
+    basic_reform = haemonculi_coven_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                haemonculi_coven_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        haemonculi_coven_legacy
+	}
+}
+wych_cult = {
+    basic_reform = wych_cult_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                wych_cult_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        wych_cult_legacy
+	}
+}
+#-----------------------------------------------
+# Eldar
+#-----------------------------------------------
+craftworld_outpost = {
+    basic_reform = craftworld_outpost_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                craftworld_outpost_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        craftworld_outpost_legacy
+	}
+}
+#-----------------------------------------------
+# Necrons
+#-----------------------------------------------
+tomb_world = {
+    basic_reform = tomb_world_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                tomb_world_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        tomb_world_legacy
+	}
+}
+#-----------------------------------------------
+# Orks
+#-----------------------------------------------
+ork_clan = {
+    basic_reform = ork_clan_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                ork_clan_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        ork_clan_legacy
+	}
+}
+#-----------------------------------------------
+# Tau
+#-----------------------------------------------
+tau_contingent = {
+    basic_reform = tau_contingent_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                tau_contingent_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        tau_contingent_legacy
+	}
+}
+#-----------------------------------------------
+# Tyranids
+#-----------------------------------------------
+hive_fleet = {
+    basic_reform = hive_fleet_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                hive_fleet_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        hive_fleet_legacy
+	}
+}
+genestealer_cult = {
+    basic_reform = genestealer_cult_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                genestealer_cult_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        genestealer_cult_legacy
+	}
+}

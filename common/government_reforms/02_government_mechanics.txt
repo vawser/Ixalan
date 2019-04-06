@@ -1,0 +1,181 @@
+#-----------------------------------------------
+# Imperium
+#-----------------------------------------------
+astra_militarum_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}
+space_marine_chapter_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}
+orders_militant_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}
+
+#-----------------------------------------------
+# Chaos
+#-----------------------------------------------
+traitor_legion_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}
+daemon_horde_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}
+chaos_cult_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}
+
+#-----------------------------------------------
+# Dark Eldar
+#-----------------------------------------------
+kabal_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}
+haemonculi_coven_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}
+wych_cult_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}
+
+#-----------------------------------------------
+# Eldar
+#-----------------------------------------------
+craftworld_outpost_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}
+
+#-----------------------------------------------
+# Necrons
+#-----------------------------------------------
+tomb_world_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}
+
+#-----------------------------------------------
+# Orks
+#-----------------------------------------------
+ork_clan_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}
+
+#-----------------------------------------------
+# Tau
+#-----------------------------------------------
+tau_contingent_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}
+
+#-----------------------------------------------
+# Tyranids
+#-----------------------------------------------
+hive_fleet_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}
+genestealer_cult_mechanic = {
+    basic_reform = yes
+    
+    valid_for_nation_designer = no
+    
+	monarchy = yes
+    
+	heir = yes
+	queen = yes
+}

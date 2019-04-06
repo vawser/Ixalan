@@ -1,0 +1,2790 @@
+﻿l_english:
+ #-------------------------------
+ # Areas
+ #-------------------------------
+ cittlan_area: "Cittlan"
+ cittlan_area_name: "Cittlan"
+ cittlan_area_adj: "Cittlan"
+
+ netmalcoatl_area: "Netmalcoatl"
+ netmalcoatl_area_name: "Netmalcoatl"
+ netmalcoatl_area_adj: "Netmalcoatl"
+
+ ohtcoymoc_area: "Ohtcoymoc"
+ ohtcoymoc_area_name: "Ohtcoymoc"
+ ohtcoymoc_area_adj: "Ohtcoymoc"
+
+ ichoch_area: "Ichoch"
+ ichoch_area_name: "Ichoch"
+ ichoch_area_adj: "Ichoch"
+
+ coatli_area: "Coatli"
+ coatli_area_name: "Coatli"
+ coatli_area_adj: "Coatli"
+
+ tentic_area: "Tentic"
+ tentic_area_name: "Tentic"
+ tentic_area_adj: "Tentic"
+
+ netzuma_area: "Netzuma"
+ netzuma_area_name: "Netzuma"
+ netzuma_area_adj: "Netzuma"
+
+ citlan_area: "Citlan"
+ citlan_area_name: "Citlan"
+ citlan_area_adj: "Citlan"
+
+ nahunexoc_area: "Nahunexoc"
+ nahunexoc_area_name: "Nahunexoc"
+ nahunexoc_area_adj: "Nahunexoc"
+
+ monteli_area: "Monteli"
+ monteli_area_name: "Monteli"
+ monteli_area_adj: "Monteli"
+
+ ciatl_area: "Ciatl"
+ ciatl_area_name: "Ciatl"
+ ciatl_area_adj: "Ciatl"
+
+ eztli_area: "Eztli"
+ eztli_area_name: "Eztli"
+ eztli_area_adj: "Eztli"
+
+ ohttlanoc_area: "Ohttlanoc"
+ ohttlanoc_area_name: "Ohttlanoc"
+ ohttlanoc_area_adj: "Ohttlanoc"
+
+ ichteecali_area: "Ichteecali"
+ ichteecali_area_name: "Ichteecali"
+ ichteecali_area_adj: "Ichteecali"
+
+ chiley_area: "Chiley"
+ chiley_area_name: "Chiley"
+ chiley_area_adj: "Chiley"
+
+ citmoc_area: "Citmoc"
+ citmoc_area_name: "Citmoc"
+ citmoc_area_adj: "Citmoc"
+
+ mathuttohuitl_area: "Mathuttohuitl"
+ mathuttohuitl_area_name: "Mathuttohuitl"
+ mathuttohuitl_area_adj: "Mathuttohuitl"
+
+ itzualzuma_area: "Itzualzuma"
+ itzualzuma_area_name: "Itzualzuma"
+ itzualzuma_area_adj: "Itzualzuma"
+
+ ahuzaloatl_area: "Ahuzaloatl"
+ ahuzaloatl_area_name: "Ahuzaloatl"
+ ahuzaloatl_area_adj: "Ahuzaloatl"
+
+ cizallin_area: "Cizallin"
+ cizallin_area_name: "Cizallin"
+ cizallin_area_adj: "Cizallin"
+
+ itzlaliina_area: "Itzlaliina"
+ itzlaliina_area_name: "Itzlaliina"
+ itzlaliina_area_adj: "Itzlaliina"
+
+ illcoyotl_area: "Illcoyotl"
+ illcoyotl_area_name: "Illcoyotl"
+ illcoyotl_area_adj: "Illcoyotl"
+
+ huiley_area: "Huiley"
+ huiley_area_name: "Huiley"
+ huiley_area_adj: "Huiley"
+
+ monteoatl_area: "Monteoatl"
+ monteoatl_area_name: "Monteoatl"
+ monteoatl_area_adj: "Monteoatl"
+
+ itzoc_area: "Itzoc"
+ itzoc_area_name: "Itzoc"
+ itzoc_area_adj: "Itzoc"
+
+ acapacoc_area: "Acapacoc"
+ acapacoc_area_name: "Acapacoc"
+ acapacoc_area_adj: "Acapacoc"
+
+ montzpcactli_area: "Montzpcactli"
+ montzpcactli_area_name: "Montzpcactli"
+ montzpcactli_area_adj: "Montzpcactli"
+
+ acanexzahnal_area: "Acanexzahnal"
+ acanexzahnal_area_name: "Acanexzahnal"
+ acanexzahnal_area_adj: "Acanexzahnal"
+
+ ohtlan_area: "Ohtlan"
+ ohtlan_area_name: "Ohtlan"
+ ohtlan_area_adj: "Ohtlan"
+
+ ichmalnal_area: "Ichmalnal"
+ ichmalnal_area_name: "Ichmalnal"
+ ichmalnal_area_adj: "Ichmalnal"
+
+ cuatl_area: "Cuatl"
+ cuatl_area_name: "Cuatl"
+ cuatl_area_adj: "Cuatl"
+
+ ocotzpnal_area: "Ocotzpnal"
+ ocotzpnal_area_name: "Ocotzpnal"
+ ocotzpnal_area_adj: "Ocotzpnal"
+
+ ahulateeatl_area: "Ahulateeatl"
+ ahulateeatl_area_name: "Ahulateeatl"
+ ahulateeatl_area_adj: "Ahulateeatl"
+
+ chilan_area: "Chilan"
+ chilan_area_name: "Chilan"
+ chilan_area_adj: "Chilan"
+
+ coanexcoyoch_area: "Coanexcoyoch"
+ coanexcoyoch_area_name: "Coanexcoyoch"
+ coanexcoyoch_area_adj: "Coanexcoyoch"
+
+ ezcali_area: "Ezcali"
+ ezcali_area_name: "Ezcali"
+ ezcali_area_adj: "Ezcali"
+
+ ciatlee_area: "Ciatlee"
+ ciatlee_area_name: "Ciatlee"
+ ciatlee_area_adj: "Ciatlee"
+
+ mattlanoch_area: "Mattlanoch"
+ mattlanoch_area_name: "Mattlanoch"
+ mattlanoch_area_adj: "Mattlanoch"
+
+ ezlihutcali_area: "Ezlihutcali"
+ ezlihutcali_area_name: "Ezlihutcali"
+ ezlihutcali_area_adj: "Ezlihutcali"
+
+ ocoalllaoatl_area: "Ocoalllaoatl"
+ ocoalllaoatl_area_name: "Ocoalllaoatl"
+ ocoalllaoatl_area_adj: "Ocoalllaoatl"
+
+ tenlea_area: "Tenlea"
+ tenlea_area_name: "Tenlea"
+ tenlea_area_adj: "Tenlea"
+
+ monlalinexka_area: "Monlalinexka"
+ monlalinexka_area_name: "Monlalinexka"
+ monlalinexka_area_adj: "Monlalinexka"
+
+ netalziley_area: "Netalziley"
+ netalziley_area_name: "Netalziley"
+ netalziley_area_adj: "Netalziley"
+
+ guateculiley_area: "Guateculiley"
+ guateculiley_area_name: "Guateculiley"
+ guateculiley_area_adj: "Guateculiley"
+
+ coacoytzphtli_area: "Coacoytzphtli"
+ coacoytzphtli_area_name: "Coacoytzphtli"
+ coacoytzphtli_area_adj: "Coacoytzphtli"
+
+ guazicacatl_area: "Guazicacatl"
+ guazicacatl_area_name: "Guazicacatl"
+ guazicacatl_area_adj: "Guazicacatl"
+
+ ichina_area: "Ichina"
+ ichina_area_name: "Ichina"
+ ichina_area_adj: "Ichina"
+
+ ahupacatcali_area: "Ahupacatcali"
+ ahupacatcali_area_name: "Ahupacatcali"
+ ahupacatcali_area_adj: "Ahupacatcali"
+
+ chitlan_area: "Chitlan"
+ chitlan_area_name: "Chitlan"
+ chitlan_area_adj: "Chitlan"
+
+ chizahlan_area: "Chizahlan"
+ chizahlan_area_name: "Chizahlan"
+ chizahlan_area_adj: "Chizahlan"
+
+ tenteea_area: "Tenteea"
+ tenteea_area_name: "Tenteea"
+ tenteea_area_adj: "Tenteea"
+
+ acatecutlanli_area: "Acatecutlanli"
+ acatecutlanli_area_name: "Acatecutlanli"
+ acatecutlanli_area_adj: "Acatecutlanli"
+
+ quetualnal_area: "Quetualnal"
+ quetualnal_area_name: "Quetualnal"
+ quetualnal_area_adj: "Quetualnal"
+
+ coahutli_area: "Coahutli"
+ coahutli_area_name: "Coahutli"
+ coahutli_area_adj: "Coahutli"
+
+ itztlioch_area: "Itztlioch"
+ itztlioch_area_name: "Itztlioch"
+ itztlioch_area_adj: "Itztlioch"
+
+ illina_area: "Illina"
+ illina_area_name: "Illina"
+ illina_area_adj: "Illina"
+
+ citoka_area: "Citoka"
+ citoka_area_name: "Citoka"
+ citoka_area_adj: "Citoka"
+
+ quettl_area: "Quettl"
+ quettl_area_name: "Quettl"
+ quettl_area_adj: "Quettl"
+
+ ichzalcali_area: "Ichzalcali"
+ ichzalcali_area_name: "Ichzalcali"
+ ichzalcali_area_adj: "Ichzalcali"
+
+ chioch_area: "Chioch"
+ chioch_area_name: "Chioch"
+ chioch_area_adj: "Chioch"
+
+ ohtlin_area: "Ohtlin"
+ ohtlin_area_name: "Ohtlin"
+ ohtlin_area_adj: "Ohtlin"
+
+ tenoch_area: "Tenoch"
+ tenoch_area_name: "Tenoch"
+ tenoch_area_adj: "Tenoch"
+
+ citzika_area: "Citzika"
+ citzika_area_name: "Citzika"
+ citzika_area_adj: "Citzika"
+
+ montacatoatl_area: "Montacatoatl"
+ montacatoatl_area_name: "Montacatoatl"
+ montacatoatl_area_adj: "Montacatoatl"
+
+ illea_area: "Illea"
+ illea_area_name: "Illea"
+ illea_area_adj: "Illea"
+
+ cualacacoatl_area: "Cualacacoatl"
+ cualacacoatl_area_name: "Cualacacoatl"
+ cualacacoatl_area_adj: "Cualacacoatl"
+
+ guamoc_area: "Guamoc"
+ guamoc_area_name: "Guamoc"
+ guamoc_area_adj: "Guamoc"
+
+ nahuoatl_area: "Nahuoatl"
+ nahuoatl_area_name: "Nahuoatl"
+ nahuoatl_area_adj: "Nahuoatl"
+
+ guatl_area: "Guatl"
+ guatl_area_name: "Guatl"
+ guatl_area_adj: "Guatl"
+
+ tenalltacka_area: "Tenalltacka"
+ tenalltacka_area_name: "Tenalltacka"
+ tenalltacka_area_adj: "Tenalltacka"
+
+ ahucali_area: "Ahucali"
+ ahucali_area_name: "Ahucali"
+ ahucali_area_adj: "Ahucali"
+
+ cuanexpacatl_area: "Cuanexpacatl"
+ cuanexpacatl_area_name: "Cuanexpacatl"
+ cuanexpacatl_area_adj: "Cuanexpacatl"
+
+ ocolee_area: "Ocolee"
+ ocolee_area_name: "Ocolee"
+ ocolee_area_adj: "Ocolee"
+
+ ohtzihuitl_area: "Ohtzihuitl"
+ ohtzihuitl_area_name: "Ohtzihuitl"
+ ohtzihuitl_area_adj: "Ohtzihuitl"
+
+ netnexnexoatl_area: "Netnexnexoatl"
+ netnexnexoatl_area_name: "Netnexnexoatl"
+ netnexnexoatl_area_adj: "Netnexnexoatl"
+
+ acatelan_area: "Acatelan"
+ acatelan_area_name: "Acatelan"
+ acatelan_area_adj: "Acatelan"
+
+ nahutecuzahina_area: "Nahutecuzahina"
+ nahutecuzahina_area_name: "Nahutecuzahina"
+ nahutecuzahina_area_adj: "Nahutecuzahina"
+
+ ahucamoch_area: "Ahucamoch"
+ ahucamoch_area_name: "Ahucamoch"
+ ahucamoch_area_adj: "Ahucamoch"
+
+ mattlantic_area: "Mattlantic"
+ mattlantic_area_name: "Mattlantic"
+ mattlantic_area_adj: "Mattlantic"
+
+ cilin_area: "Cilin"
+ cilin_area_name: "Cilin"
+ cilin_area_adj: "Cilin"
+
+ cilioch_area: "Cilioch"
+ cilioch_area_name: "Cilioch"
+ cilioch_area_adj: "Cilioch"
+
+ citzpzahlea_area: "Citzpzahlea"
+ citzpzahlea_area_name: "Citzpzahlea"
+ citzpzahlea_area_adj: "Citzpzahlea"
+
+ tezzahatl_area: "Tezzahatl"
+ tezzahatl_area_name: "Tezzahatl"
+ tezzahatl_area_adj: "Tezzahatl"
+
+ quettlantl_area: "Quettlantl"
+ quettlantl_area_name: "Quettlantl"
+ quettlantl_area_adj: "Quettlantl"
+
+ tezalcoyatl_area: "Tezalcoyatl"
+ tezalcoyatl_area_name: "Tezalcoyatl"
+ tezalcoyatl_area_adj: "Tezalcoyatl"
+
+ illtemhuitl_area: "Illtemhuitl"
+ illtemhuitl_area_name: "Illtemhuitl"
+ illtemhuitl_area_adj: "Illtemhuitl"
+
+ huilin_area: "Huilin"
+ huilin_area_name: "Huilin"
+ huilin_area_adj: "Huilin"
+
+ itzmaltecali_area: "Itzmaltecali"
+ itzmaltecali_area_name: "Itzmaltecali"
+ itzmaltecali_area_adj: "Itzmaltecali"
+
+ coaina_area: "Coaina"
+ coaina_area_name: "Coaina"
+ coaina_area_adj: "Coaina"
+
+ acazaltliina_area: "Acazaltliina"
+ acazaltliina_area_name: "Acazaltliina"
+ acazaltliina_area_adj: "Acazaltliina"
+
+ chili_area: "Chili"
+ chili_area_name: "Chili"
+ chili_area_adj: "Chili"
+
+ tenzi_area: "Tenzi"
+ tenzi_area_name: "Tenzi"
+ tenzi_area_adj: "Tenzi"
+
+ ichtlan_area: "Ichtlan"
+ ichtlan_area_name: "Ichtlan"
+ ichtlan_area_adj: "Ichtlan"
+
+ acacampaclee_area: "Acacampaclee"
+ acacampaclee_area_name: "Acacampaclee"
+ acacampaclee_area_adj: "Acacampaclee"
+
+ quetnexotl_area: "Quetnexotl"
+ quetnexotl_area_name: "Quetnexotl"
+ quetnexotl_area_adj: "Quetnexotl"
+
+ chitenal_area: "Chitenal"
+ chitenal_area_name: "Chitenal"
+ chitenal_area_adj: "Chitenal"
+
+ coacamzihuitl_area: "Coacamzihuitl"
+ coacamzihuitl_area_name: "Coacamzihuitl"
+ coacamzihuitl_area_adj: "Coacamzihuitl"
+
+ acazilalika_area: "Acazilalika"
+ acazilalika_area_name: "Acazilalika"
+ acazilalika_area_adj: "Acazilalika"
+
+ itzley_area: "Itzley"
+ itzley_area_name: "Itzley"
+ itzley_area_adj: "Itzley"
+
+ ezpacallcoatl_area: "Ezpacallcoatl"
+ ezpacallcoatl_area_name: "Ezpacallcoatl"
+ ezpacallcoatl_area_adj: "Ezpacallcoatl"
+
+ ahucamcali_area: "Ahucamcali"
+ ahucamcali_area_name: "Ahucamcali"
+ ahucamcali_area_adj: "Ahucamcali"
+
+ ciea_area: "Ciea"
+ ciea_area_name: "Ciea"
+ ciea_area_adj: "Ciea"
+
+ ohtpacli_area: "Ohtpacli"
+ ohtpacli_area_name: "Ohtpacli"
+ ohtpacli_area_adj: "Ohtpacli"
+
+ cittecunextl_area: "Cittecunextl"
+ cittecunextl_area_name: "Cittecunextl"
+ cittecunextl_area_adj: "Cittecunextl"
+
+ itztopaccoatl_area: "Itztopaccoatl"
+ itztopaccoatl_area_name: "Itztopaccoatl"
+ itztopaccoatl_area_adj: "Itztopaccoatl"
+
+ guapacalli_area: "Guapacalli"
+ guapacalli_area_name: "Guapacalli"
+ guapacalli_area_adj: "Guapacalli"
+
+ cuazalmalka_area: "Cuazalmalka"
+ cuazalmalka_area_name: "Cuazalmalka"
+ cuazalmalka_area_adj: "Cuazalmalka"
+
+ huitlan_area: "Huitlan"
+ huitlan_area_name: "Huitlan"
+ huitlan_area_adj: "Huitlan"
+
+ ohtlatemhtli_area: "Ohtlatemhtli"
+ ohtlatemhtli_area_name: "Ohtlatemhtli"
+ ohtlatemhtli_area_adj: "Ohtlatemhtli"
+
+ ohttzinexlan_area: "Ohttzinexlan"
+ ohttzinexlan_area_name: "Ohttzinexlan"
+ ohttzinexlan_area_adj: "Ohttzinexlan"
+
+ cialtlinal_area: "Cialtlinal"
+ cialtlinal_area_name: "Cialtlinal"
+ cialtlinal_area_adj: "Cialtlinal"
+
+ coanexoc_area: "Coanexoc"
+ coanexoc_area_name: "Coanexoc"
+ coanexoc_area_adj: "Coanexoc"
+
+ ocootl_area: "Ocootl"
+ ocootl_area_name: "Ocootl"
+ ocootl_area_adj: "Ocootl"
+
+ gualan_area: "Gualan"
+ gualan_area_name: "Gualan"
+ gualan_area_adj: "Gualan"
+
+ netzizahtl_area: "Netzizahtl"
+ netzizahtl_area_name: "Netzizahtl"
+ netzizahtl_area_adj: "Netzizahtl"
+
+ ichlalitactlan_area: "Ichlalitactlan"
+ ichlalitactlan_area_name: "Ichlalitactlan"
+ ichlalitactlan_area_adj: "Ichlalitactlan"
+
+ nahutohtli_area: "Nahutohtli"
+ nahutohtli_area_name: "Nahutohtli"
+ nahutohtli_area_adj: "Nahutohtli"
+
+ micaltozi_area: "Micaltozi"
+ micaltozi_area_name: "Micaltozi"
+ micaltozi_area_adj: "Micaltozi"
+
+ monlin_area: "Monlin"
+ monlin_area_name: "Monlin"
+ monlin_area_adj: "Monlin"
+
+ ahulitenal_area: "Ahulitenal"
+ ahulitenal_area_name: "Ahulitenal"
+ ahulitenal_area_adj: "Ahulitenal"
+
+ huicaccoyotl_area: "Huicaccoyotl"
+ huicaccoyotl_area_name: "Huicaccoyotl"
+ huicaccoyotl_area_adj: "Huicaccoyotl"
+
+ huitocoatl_area: "Huitocoatl"
+ huitocoatl_area_name: "Huitocoatl"
+ huitocoatl_area_adj: "Huitocoatl"
+
+ citliea_area: "Citliea"
+ citliea_area_name: "Citliea"
+ citliea_area_adj: "Citliea"
+
+ chitelalihuitl_area: "Chitelalihuitl"
+ chitelalihuitl_area_name: "Chitelalihuitl"
+ chitelalihuitl_area_adj: "Chitelalihuitl"
+
+ matlea_area: "Matlea"
+ matlea_area_name: "Matlea"
+ matlea_area_adj: "Matlea"
+
+ ocoatatl_area: "Ocoatatl"
+ ocoatatl_area_name: "Ocoatatl"
+ ocoatatl_area_adj: "Ocoatatl"
+
+ tencactic_area: "Tencactic"
+ tencactic_area_name: "Tencactic"
+ tencactic_area_adj: "Tencactic"
+
+ matzahalli_area: "Matzahalli"
+ matzahalli_area_name: "Matzahalli"
+ matzahalli_area_adj: "Matzahalli"
+
+ ichzuma_area: "Ichzuma"
+ ichzuma_area_name: "Ichzuma"
+ ichzuma_area_adj: "Ichzuma"
+
+ nahulacoyoc_area: "Nahulacoyoc"
+ nahulacoyoc_area_name: "Nahulacoyoc"
+ nahulacoyoc_area_adj: "Nahulacoyoc"
+
+ acaallotl_area: "Acaallotl"
+ acaallotl_area_name: "Acaallotl"
+ acaallotl_area_adj: "Acaallotl"
+
+ tenpaczuma_area: "Tenpaczuma"
+ tenpaczuma_area_name: "Tenpaczuma"
+ tenpaczuma_area_adj: "Tenpaczuma"
+
+ ezalzuma_area: "Ezalzuma"
+ ezalzuma_area_name: "Ezalzuma"
+ ezalzuma_area_adj: "Ezalzuma"
+
+ ohtina_area: "Ohtina"
+ ohtina_area_name: "Ohtina"
+ ohtina_area_adj: "Ohtina"
+
+ nahucoyzaltli_area: "Nahucoyzaltli"
+ nahucoyzaltli_area_name: "Nahucoyzaltli"
+ nahucoyzaltli_area_adj: "Nahucoyzaltli"
+
+ itzmalhtli_area: "Itzmalhtli"
+ itzmalhtli_area_name: "Itzmalhtli"
+ itzmalhtli_area_adj: "Itzmalhtli"
+
+ ocolalitemoc_area: "Ocolalitemoc"
+ ocolalitemoc_area_name: "Ocolalitemoc"
+ ocolalitemoc_area_adj: "Ocolalitemoc"
+
+ quetzalatl_area: "Quetzalatl"
+ quetzalatl_area_name: "Quetzalatl"
+ quetzalatl_area_adj: "Quetzalatl"
+
+ micteea_area: "Micteea"
+ micteea_area_name: "Micteea"
+ micteea_area_adj: "Micteea"
+
+ cilan_area: "Cilan"
+ cilan_area_name: "Cilan"
+ cilan_area_adj: "Cilan"
+
+ ichtacmalli_area: "Ichtacmalli"
+ ichtacmalli_area_name: "Ichtacmalli"
+ ichtacmalli_area_adj: "Ichtacmalli"
+
+ illzaltzilea_area: "Illzaltzilea"
+ illzaltzilea_area_name: "Illzaltzilea"
+ illzaltzilea_area_adj: "Illzaltzilea"
+
+ cittlizuma_area: "Cittlizuma"
+ cittlizuma_area_name: "Cittlizuma"
+ cittlizuma_area_adj: "Cittlizuma"
+
+ ichmalallley_area: "Ichmalallley"
+ ichmalallley_area_name: "Ichmalallley"
+ ichmalallley_area_adj: "Ichmalallley"
+
+ nahualllan_area: "Nahualllan"
+ nahualllan_area_name: "Nahualllan"
+ nahualllan_area_adj: "Nahualllan"
+
+ ichteehtli_area: "Ichteehtli"
+ ichteehtli_area_name: "Ichteehtli"
+ ichteehtli_area_adj: "Ichteehtli"
+
+ acamaltachuitl_area: "Acamaltachuitl"
+ acamaltachuitl_area_name: "Acamaltachuitl"
+ acamaltachuitl_area_adj: "Acamaltachuitl"
+
+ cihuthtli_area: "Cihuthtli"
+ cihuthtli_area_name: "Cihuthtli"
+ cihuthtli_area_adj: "Cihuthtli"
+
+ guanexzahoc_area: "Guanexzahoc"
+ guanexzahoc_area_name: "Guanexzahoc"
+ guanexzahoc_area_adj: "Guanexzahoc"
+
+ micalltic_area: "Micalltic"
+ micalltic_area_name: "Micalltic"
+ micalltic_area_adj: "Micalltic"
+
+ nahuhutka_area: "Nahuhutka"
+ nahuhutka_area_name: "Nahuhutka"
+ nahuhutka_area_adj: "Nahuhutka"
+
+ ahuhtli_area: "Ahuhtli"
+ ahuhtli_area_name: "Ahuhtli"
+ ahuhtli_area_adj: "Ahuhtli"
+
+ cuatlitliatl_area: "Cuatlitliatl"
+ cuatlitliatl_area_name: "Cuatlitliatl"
+ cuatlitliatl_area_adj: "Cuatlitliatl"
+
+ itztaczahmoc_area: "Itztaczahmoc"
+ itztaczahmoc_area_name: "Itztaczahmoc"
+ itztaczahmoc_area_adj: "Itztaczahmoc"
+
+ coacactelea_area: "Coacactelea"
+ coacactelea_area_name: "Coacactelea"
+ coacactelea_area_adj: "Coacactelea"
+
+ illtemcali_area: "Illtemcali"
+ illtemcali_area_name: "Illtemcali"
+ illtemcali_area_adj: "Illtemcali"
+
+ cuacamcamzuma_area: "Cuacamcamzuma"
+ cuacamcamzuma_area_name: "Cuacamcamzuma"
+ cuacamcamzuma_area_adj: "Cuacamcamzuma"
+
+ cicamtzioatl_area: "Cicamtzioatl"
+ cicamtzioatl_area_name: "Cicamtzioatl"
+ cicamtzioatl_area_adj: "Cicamtzioatl"
+
+ ezlicamlin_area: "Ezlicamlin"
+ ezlicamlin_area_name: "Ezlicamlin"
+ ezlicamlin_area_adj: "Ezlicamlin"
+
+ ocotlitic_area: "Ocotlitic"
+ ocotlitic_area_name: "Ocotlitic"
+ ocotlitic_area_adj: "Ocotlitic"
+
+ ezallan_area: "Ezallan"
+ ezallan_area_name: "Ezallan"
+ ezallan_area_adj: "Ezallan"
+
+ ohtcaccamlan_area: "Ohtcaccamlan"
+ ohtcaccamlan_area_name: "Ohtcaccamlan"
+ ohtcaccamlan_area_adj: "Ohtcaccamlan"
+
+ monhutotl_area: "Monhutotl"
+ monhutotl_area_name: "Monhutotl"
+ monhutotl_area_adj: "Monhutotl"
+
+ netlin_area: "Netlin"
+ netlin_area_name: "Netlin"
+ netlin_area_adj: "Netlin"
+
+ ezmalotl_area: "Ezmalotl"
+ ezmalotl_area_name: "Ezmalotl"
+ ezmalotl_area_adj: "Ezmalotl"
+
+ ichcaclan_area: "Ichcaclan"
+ ichcaclan_area_name: "Ichcaclan"
+ ichcaclan_area_adj: "Ichcaclan"
+
+ quetoatl_area: "Quetoatl"
+ quetoatl_area_name: "Quetoatl"
+ quetoatl_area_adj: "Quetoatl"
+
+ ichoc_area: "Ichoc"
+ ichoc_area_name: "Ichoc"
+ ichoc_area_adj: "Ichoc"
+
+ ahutzppactic_area: "Ahutzppactic"
+ ahutzppactic_area_name: "Ahutzppactic"
+ ahutzppactic_area_adj: "Ahutzppactic"
+
+ illtotolea_area: "Illtotolea"
+ illtotolea_area_name: "Illtotolea"
+ illtotolea_area_adj: "Illtotolea"
+
+ ezatzahea_area: "Ezatzahea"
+ ezatzahea_area_name: "Ezatzahea"
+ ezatzahea_area_adj: "Ezatzahea"
+
+ micatea_area: "Micatea"
+ micatea_area_name: "Micatea"
+ micatea_area_adj: "Micatea"
+
+ ezteina_area: "Ezteina"
+ ezteina_area_name: "Ezteina"
+ ezteina_area_adj: "Ezteina"
+
+ eztactemhtli_area: "Eztactemhtli"
+ eztactemhtli_area_name: "Eztactemhtli"
+ eztactemhtli_area_adj: "Eztactemhtli"
+
+ monzahalhtli_area: "Monzahalhtli"
+ monzahalhtli_area_name: "Monzahalhtli"
+ monzahalhtli_area_adj: "Monzahalhtli"
+
+ cinexcoyka_area: "Cinexcoyka"
+ cinexcoyka_area_name: "Cinexcoyka"
+ cinexcoyka_area_adj: "Cinexcoyka"
+
+ netcacatlan_area: "Netcacatlan"
+ netcacatlan_area_name: "Netcacatlan"
+ netcacatlan_area_adj: "Netcacatlan"
+
+ ohttli_area: "Ohttli"
+ ohttli_area_name: "Ohttli"
+ ohttli_area_adj: "Ohttli"
+
+ monoc_area: "Monoc"
+ monoc_area_name: "Monoc"
+ monoc_area_adj: "Monoc"
+
+ tenlatelee_area: "Tenlatelee"
+ tenlatelee_area_name: "Tenlatelee"
+ tenlatelee_area_adj: "Tenlatelee"
+
+ citlanlin_area: "Citlanlin"
+ citlanlin_area_name: "Citlanlin"
+ citlanlin_area_adj: "Citlanlin"
+
+ illzi_area: "Illzi"
+ illzi_area_name: "Illzi"
+ illzi_area_adj: "Illzi"
+
+ ichzicali_area: "Ichzicali"
+ ichzicali_area_name: "Ichzicali"
+ ichzicali_area_adj: "Ichzicali"
+
+ teznal_area: "Teznal"
+ teznal_area_name: "Teznal"
+ teznal_area_adj: "Teznal"
+
+ ciina_area: "Ciina"
+ ciina_area_name: "Ciina"
+ ciina_area_adj: "Ciina"
+
+ citlizalhuitl_area: "Citlizalhuitl"
+ citlizalhuitl_area_name: "Citlizalhuitl"
+ citlizalhuitl_area_adj: "Citlizalhuitl"
+
+ coazalteculin_area: "Coazalteculin"
+ coazalteculin_area_name: "Coazalteculin"
+ coazalteculin_area_adj: "Coazalteculin"
+
+ matzuma_area: "Matzuma"
+ matzuma_area_name: "Matzuma"
+ matzuma_area_adj: "Matzuma"
+
+ illlalitzioatl_area: "Illlalitzioatl"
+ illlalitzioatl_area_name: "Illlalitzioatl"
+ illlalitzioatl_area_adj: "Illlalitzioatl"
+
+ guazi_area: "Guazi"
+ guazi_area_name: "Guazi"
+ guazi_area_adj: "Guazi"
+
+ monlea_area: "Monlea"
+ monlea_area_name: "Monlea"
+ monlea_area_adj: "Monlea"
+
+ acali_area: "Acali"
+ acali_area_name: "Acali"
+ acali_area_adj: "Acali"
+
+ mathutlin_area: "Mathutlin"
+ mathutlin_area_name: "Mathutlin"
+ mathutlin_area_adj: "Mathutlin"
+
+ ciallzuma_area: "Ciallzuma"
+ ciallzuma_area_name: "Ciallzuma"
+ ciallzuma_area_adj: "Ciallzuma"
+
+ tezhtli_area: "Tezhtli"
+ tezhtli_area_name: "Tezhtli"
+ tezhtli_area_adj: "Tezhtli"
+
+ citzptezuma_area: "Citzptezuma"
+ citzptezuma_area_name: "Citzptezuma"
+ citzptezuma_area_adj: "Citzptezuma"
+
+ teztecuzi_area: "Teztecuzi"
+ teztecuzi_area_name: "Teztecuzi"
+ teztecuzi_area_adj: "Teztecuzi"
+
+ ezzahtic_area: "Ezzahtic"
+ ezzahtic_area_name: "Ezzahtic"
+ ezzahtic_area_adj: "Ezzahtic"
+
+ netlalinal_area: "Netlalinal"
+ netlalinal_area_name: "Netlalinal"
+ netlalinal_area_adj: "Netlalinal"
+
+ teztlan_area: "Teztlan"
+ teztlan_area_name: "Teztlan"
+ teztlan_area_adj: "Teztlan"
+
+ netlea_area: "Netlea"
+ netlea_area_name: "Netlea"
+ netlea_area_adj: "Netlea"
+
+ quetka_area: "Quetka"
+ quetka_area_name: "Quetka"
+ quetka_area_adj: "Quetka"
+
+ ohthuitl_area: "Ohthuitl"
+ ohthuitl_area_name: "Ohthuitl"
+ ohthuitl_area_adj: "Ohthuitl"
+
+ nahulicacina_area: "Nahulicacina"
+ nahulicacina_area_name: "Nahulicacina"
+ nahulicacina_area_adj: "Nahulicacina"
+
+ citlanoc_area: "Citlanoc"
+ citlanoc_area_name: "Citlanoc"
+ citlanoc_area_adj: "Citlanoc"
+
+ coaalloatl_area: "Coaalloatl"
+ coaalloatl_area_name: "Coaalloatl"
+ coaalloatl_area_adj: "Coaalloatl"
+
+ gualaea_area: "Gualaea"
+ gualaea_area_name: "Gualaea"
+ gualaea_area_adj: "Gualaea"
+
+ ichmalka_area: "Ichmalka"
+ ichmalka_area_name: "Ichmalka"
+ ichmalka_area_adj: "Ichmalka"
+
+ coaea_area: "Coaea"
+ coaea_area_name: "Coaea"
+ coaea_area_adj: "Coaea"
+
+ ichteeoch_area: "Ichteeoch"
+ ichteeoch_area_name: "Ichteeoch"
+ ichteeoch_area_adj: "Ichteeoch"
+
+ huipaczuma_area: "Huipaczuma"
+ huipaczuma_area_name: "Huipaczuma"
+ huipaczuma_area_adj: "Huipaczuma"
+
+ cizili_area: "Cizili"
+ cizili_area_name: "Cizili"
+ cizili_area_adj: "Cizili"
+
+ itztepacoch_area: "Itztepacoch"
+ itztepacoch_area_name: "Itztepacoch"
+ itztepacoch_area_adj: "Itztepacoch"
+
+ ohtteeatatl_area: "Ohtteeatatl"
+ ohtteeatatl_area_name: "Ohtteeatatl"
+ ohtteeatatl_area_adj: "Ohtteeatatl"
+
+ cuatecuina_area: "Cuatecuina"
+ cuatecuina_area_name: "Cuatecuina"
+ cuatecuina_area_adj: "Cuatecuina"
+
+ miclan_area: "Miclan"
+ miclan_area_name: "Miclan"
+ miclan_area_adj: "Miclan"
+
+ netualzahlee_area: "Netualzahlee"
+ netualzahlee_area_name: "Netualzahlee"
+ netualzahlee_area_adj: "Netualzahlee"
+
+ coalea_area: "Coalea"
+ coalea_area_name: "Coalea"
+ coalea_area_adj: "Coalea"
+
+ tezlin_area: "Tezlin"
+ tezlin_area_name: "Tezlin"
+ tezlin_area_adj: "Tezlin"
+
+ ciatatl_area: "Ciatatl"
+ ciatatl_area_name: "Ciatatl"
+ ciatatl_area_adj: "Ciatatl"
+
+ nahutacli_area: "Nahutacli"
+ nahutacli_area_name: "Nahutacli"
+ nahutacli_area_adj: "Nahutacli"
+
+ illteepachtli_area: "Illteepachtli"
+ illteepachtli_area_name: "Illteepachtli"
+ illteepachtli_area_adj: "Illteepachtli"
+
+ coazalzuma_area: "Coazalzuma"
+ coazalzuma_area_name: "Coazalzuma"
+ coazalzuma_area_adj: "Coazalzuma"
+
+ monlacaccoatl_area: "Monlacaccoatl"
+ monlacaccoatl_area_name: "Monlacaccoatl"
+ monlacaccoatl_area_adj: "Monlacaccoatl"
+
+ ocohuttic_area: "Ocohuttic"
+ ocohuttic_area_name: "Ocohuttic"
+ ocohuttic_area_adj: "Ocohuttic"
+
+ nettemalzi_area: "Nettemalzi"
+ nettemalzi_area_name: "Nettemalzi"
+ nettemalzi_area_adj: "Nettemalzi"
+
+ coauallilee_area: "Coauallilee"
+ coauallilee_area_name: "Coauallilee"
+ coauallilee_area_adj: "Coauallilee"
+
+ ichnexzimoc_area: "Ichnexzimoc"
+ ichnexzimoc_area_name: "Ichnexzimoc"
+ ichnexzimoc_area_adj: "Ichnexzimoc"
+
+ guaatpacka_area: "Guaatpacka"
+ guaatpacka_area_name: "Guaatpacka"
+ guaatpacka_area_adj: "Guaatpacka"
+
+ cika_area: "Cika"
+ cika_area_name: "Cika"
+ cika_area_adj: "Cika"
+
+ chitic_area: "Chitic"
+ chitic_area_name: "Chitic"
+ chitic_area_adj: "Chitic"
+
+ tenhuitl_area: "Tenhuitl"
+ tenhuitl_area_name: "Tenhuitl"
+ tenhuitl_area_adj: "Tenhuitl"
+
+ ohtnexcamnal_area: "Ohtnexcamnal"
+ ohtnexcamnal_area_name: "Ohtnexcamnal"
+ ohtnexcamnal_area_adj: "Ohtnexcamnal"
+
+ cihutcaccali_area: "Cihutcaccali"
+ cihutcaccali_area_name: "Cihutcaccali"
+ cihutcaccali_area_adj: "Cihutcaccali"
+
+ ahucoatl_area: "Ahucoatl"
+ ahucoatl_area_name: "Ahucoatl"
+ ahucoatl_area_adj: "Ahucoatl"
+
+ acatlihuitl_area: "Acatlihuitl"
+ acatlihuitl_area_name: "Acatlihuitl"
+ acatlihuitl_area_adj: "Acatlihuitl"
+
+ mictzplalizi_area: "Mictzplalizi"
+ mictzplalizi_area_name: "Mictzplalizi"
+ mictzplalizi_area_adj: "Mictzplalizi"
+
+ mictzpli_area: "Mictzpli"
+ mictzpli_area_name: "Mictzpli"
+ mictzpli_area_adj: "Mictzpli"
+
+ coatic_area: "Coatic"
+ coatic_area_name: "Coatic"
+ coatic_area_adj: "Coatic"
+
+ ocotliina_area: "Ocotliina"
+ ocotliina_area_name: "Ocotliina"
+ ocotliina_area_adj: "Ocotliina"
+
+ coapacoc_area: "Coapacoc"
+ coapacoc_area_name: "Coapacoc"
+ coapacoc_area_adj: "Coapacoc"
+
+ coatactli_area: "Coatactli"
+ coatactli_area_name: "Coatactli"
+ coatactli_area_adj: "Coatactli"
+
+ monoatl_area: "Monoatl"
+ monoatl_area_name: "Monoatl"
+ monoatl_area_adj: "Monoatl"
+
+ ahulilin_area: "Ahulilin"
+ ahulilin_area_name: "Ahulilin"
+ ahulilin_area_adj: "Ahulilin"
+
+ netoatl_area: "Netoatl"
+ netoatl_area_name: "Netoatl"
+ netoatl_area_adj: "Netoatl"
+
+ cuatzpoc_area: "Cuatzpoc"
+ cuatzpoc_area_name: "Cuatzpoc"
+ cuatzpoc_area_adj: "Cuatzpoc"
+
+ citcamzahtli_area: "Citcamzahtli"
+ citcamzahtli_area_name: "Citcamzahtli"
+ citcamzahtli_area_adj: "Citcamzahtli"
+
+ mattziatl_area: "Mattziatl"
+ mattziatl_area_name: "Mattziatl"
+ mattziatl_area_adj: "Mattziatl"
+
+ huitziea_area: "Huitziea"
+ huitziea_area_name: "Huitziea"
+ huitziea_area_adj: "Huitziea"
+
+ ichtecutic_area: "Ichtecutic"
+ ichtecutic_area_name: "Ichtecutic"
+ ichtecutic_area_adj: "Ichtecutic"
+
+ guatic_area: "Guatic"
+ guatic_area_name: "Guatic"
+ guatic_area_adj: "Guatic"
+
+ acatl_area: "Acatl"
+ acatl_area_name: "Acatl"
+ acatl_area_adj: "Acatl"
+
+ acatotlantli_area: "Acatotlantli"
+ acatotlantli_area_name: "Acatotlantli"
+ acatotlantli_area_adj: "Acatotlantli"
+
+ coapacka_area: "Coapacka"
+ coapacka_area_name: "Coapacka"
+ coapacka_area_adj: "Coapacka"
+
+ netlan_area: "Netlan"
+ netlan_area_name: "Netlan"
+ netlan_area_adj: "Netlan"
+
+ ahutecucoatl_area: "Ahutecucoatl"
+ ahutecucoatl_area_name: "Ahutecucoatl"
+ ahutecucoatl_area_adj: "Ahutecucoatl"
+
+ tenlitaclan_area: "Tenlitaclan"
+ tenlitaclan_area_name: "Tenlitaclan"
+ tenlitaclan_area_adj: "Tenlitaclan"
+
+ quetmaltzicali_area: "Quetmaltzicali"
+ quetmaltzicali_area_name: "Quetmaltzicali"
+ quetmaltzicali_area_adj: "Quetmaltzicali"
+
+ coateoc_area: "Coateoc"
+ coateoc_area_name: "Coateoc"
+ coateoc_area_adj: "Coateoc"
+
+ netlimoc_area: "Netlimoc"
+ netlimoc_area_name: "Netlimoc"
+ netlimoc_area_adj: "Netlimoc"
+
+ matoc_area: "Matoc"
+ matoc_area_name: "Matoc"
+ matoc_area_adj: "Matoc"
+
+ ocotziotl_area: "Ocotziotl"
+ ocotziotl_area_name: "Ocotziotl"
+ ocotziotl_area_adj: "Ocotziotl"
+
+ ciattzilan_area: "Ciattzilan"
+ ciattzilan_area_name: "Ciattzilan"
+ ciattzilan_area_adj: "Ciattzilan"
+
+ micoatl_area: "Micoatl"
+ micoatl_area_name: "Micoatl"
+ micoatl_area_adj: "Micoatl"
+
+ nahutic_area: "Nahutic"
+ nahutic_area_name: "Nahutic"
+ nahutic_area_adj: "Nahutic"
+
+ citeculee_area: "Citeculee"
+ citeculee_area_name: "Citeculee"
+ citeculee_area_adj: "Citeculee"
+
+ ohtcacmoc_area: "Ohtcacmoc"
+ ohtcacmoc_area_name: "Ohtcacmoc"
+ ohtcacmoc_area_adj: "Ohtcacmoc"
+
+ netaltozuma_area: "Netaltozuma"
+ netaltozuma_area_name: "Netaltozuma"
+ netaltozuma_area_adj: "Netaltozuma"
+
+ mictoteecali_area: "Mictoteecali"
+ mictoteecali_area_name: "Mictoteecali"
+ mictoteecali_area_adj: "Mictoteecali"
+
+ illlitic_area: "Illlitic"
+ illlitic_area_name: "Illlitic"
+ illlitic_area_adj: "Illlitic"
+
+ guahutcacea_area: "Guahutcacea"
+ guahutcacea_area_name: "Guahutcacea"
+ guahutcacea_area_adj: "Guahutcacea"
+
+ tentecucoyhtli_area: "Tentecucoyhtli"
+ tentecucoyhtli_area_name: "Tentecucoyhtli"
+ tentecucoyhtli_area_adj: "Tentecucoyhtli"
+
+ ohtzuma_area: "Ohtzuma"
+ ohtzuma_area_name: "Ohtzuma"
+ ohtzuma_area_adj: "Ohtzuma"
+
+ netnextemoatl_area: "Netnextemoatl"
+ netnextemoatl_area_name: "Netnextemoatl"
+ netnextemoatl_area_adj: "Netnextemoatl"
+
+ ahunexzi_area: "Ahunexzi"
+ ahunexzi_area_name: "Ahunexzi"
+ ahunexzi_area_adj: "Ahunexzi"
+
+ oconexlaoc_area: "Oconexlaoc"
+ oconexlaoc_area_name: "Oconexlaoc"
+ oconexlaoc_area_adj: "Oconexlaoc"
+
+ nettlanlali_area: "Nettlanlali"
+ nettlanlali_area_name: "Nettlanlali"
+ nettlanlali_area_adj: "Nettlanlali"
+
+ itzoatl_area: "Itzoatl"
+ itzoatl_area_name: "Itzoatl"
+ itzoatl_area_adj: "Itzoatl"
+
+ ocoallzahtlan_area: "Ocoallzahtlan"
+ ocoallzahtlan_area_name: "Ocoallzahtlan"
+ ocoallzahtlan_area_adj: "Ocoallzahtlan"
+
+ ocoalteeoch_area: "Ocoalteeoch"
+ ocoalteeoch_area_name: "Ocoalteeoch"
+ ocoalteeoch_area_adj: "Ocoalteeoch"
+
+ citaccali_area: "Citaccali"
+ citaccali_area_name: "Citaccali"
+ citaccali_area_adj: "Citaccali"
+
+ ahulan_area: "Ahulan"
+ ahulan_area_name: "Ahulan"
+ ahulan_area_adj: "Ahulan"
+
+ coaalhuthtli_area: "Coaalhuthtli"
+ coaalhuthtli_area_name: "Coaalhuthtli"
+ coaalhuthtli_area_adj: "Coaalhuthtli"
+
+ teztl_area: "Teztl"
+ teztl_area_name: "Teztl"
+ teztl_area_adj: "Teztl"
+
+ cuazitozi_area: "Cuazitozi"
+ cuazitozi_area_name: "Cuazitozi"
+ cuazitozi_area_adj: "Cuazitozi"
+
+ ocoli_area: "Ocoli"
+ ocoli_area_name: "Ocoli"
+ ocoli_area_adj: "Ocoli"
+
+ huitlanzallee_area: "Huitlanzallee"
+ huitlanzallee_area_name: "Huitlanzallee"
+ huitlanzallee_area_adj: "Huitlanzallee"
+
+ guazitecuea_area: "Guazitecuea"
+ guazitecuea_area_name: "Guazitecuea"
+ guazitecuea_area_adj: "Guazitecuea"
+
+ nahuoch_area: "Nahuoch"
+ nahuoch_area_name: "Nahuoch"
+ nahuoch_area_adj: "Nahuoch"
+
+ nahutlantotic_area: "Nahutlantotic"
+ nahutlantotic_area_name: "Nahutlantotic"
+ nahutlantotic_area_adj: "Nahutlantotic"
+
+ ohtzi_area: "Ohtzi"
+ ohtzi_area_name: "Ohtzi"
+ ohtzi_area_adj: "Ohtzi"
+
+ monpachuitl_area: "Monpachuitl"
+ monpachuitl_area_name: "Monpachuitl"
+ monpachuitl_area_adj: "Monpachuitl"
+
+ citcaczilin_area: "Citcaczilin"
+ citcaczilin_area_name: "Citcaczilin"
+ citcaczilin_area_adj: "Citcaczilin"
+
+ acatemtemoatl_area: "Acatemtemoatl"
+ acatemtemoatl_area_name: "Acatemtemoatl"
+ acatemtemoatl_area_adj: "Acatemtemoatl"
+
+ itztacli_area: "Itztacli"
+ itztacli_area_name: "Itztacli"
+ itztacli_area_adj: "Itztacli"
+
+ ciualtoea_area: "Ciualtoea"
+ ciualtoea_area_name: "Ciualtoea"
+ ciualtoea_area_adj: "Ciualtoea"
+
+ cuacamualcoatl_area: "Cuacamualcoatl"
+ cuacamualcoatl_area_name: "Cuacamualcoatl"
+ cuacamualcoatl_area_adj: "Cuacamualcoatl"
+
+ chitemtlan_area: "Chitemtlan"
+ chitemtlan_area_name: "Chitemtlan"
+ chitemtlan_area_adj: "Chitemtlan"
+
+ itztoka_area: "Itztoka"
+ itztoka_area_name: "Itztoka"
+ itztoka_area_adj: "Itztoka"
+
+ micmalzuma_area: "Micmalzuma"
+ micmalzuma_area_name: "Micmalzuma"
+ micmalzuma_area_adj: "Micmalzuma"
+
+ ocoallhuitl_area: "Ocoallhuitl"
+ ocoallhuitl_area_name: "Ocoallhuitl"
+ ocoallhuitl_area_adj: "Ocoallhuitl"
+
+ acaallan_area: "Acaallan"
+ acaallan_area_name: "Acaallan"
+ acaallan_area_adj: "Acaallan"
+
+ tezualoch_area: "Tezualoch"
+ tezualoch_area_name: "Tezualoch"
+ tezualoch_area_adj: "Tezualoch"
+
+ micea_area: "Micea"
+ micea_area_name: "Micea"
+ micea_area_adj: "Micea"
+
+ tezallotl_area: "Tezallotl"
+ tezallotl_area_name: "Tezallotl"
+ tezallotl_area_adj: "Tezallotl"
+
+ cicoylin_area: "Cicoylin"
+ cicoylin_area_name: "Cicoylin"
+ cicoylin_area_adj: "Cicoylin"
+
+ mattecoatl_area: "Mattecoatl"
+ mattecoatl_area_name: "Mattecoatl"
+ mattecoatl_area_adj: "Mattecoatl"
+
+ gualin_area: "Gualin"
+ gualin_area_name: "Gualin"
+ gualin_area_adj: "Gualin"
+
+ cuatotzpzuma_area: "Cuatotzpzuma"
+ cuatotzpzuma_area_name: "Cuatotzpzuma"
+ cuatotzpzuma_area_adj: "Cuatotzpzuma"
+
+ mictli_area: "Mictli"
+ mictli_area_name: "Mictli"
+ mictli_area_adj: "Mictli"
+
+ illtemtli_area: "Illtemtli"
+ illtemtli_area_name: "Illtemtli"
+ illtemtli_area_adj: "Illtemtli"
+
+ micatnal_area: "Micatnal"
+ micatnal_area_name: "Micatnal"
+ micatnal_area_adj: "Micatnal"
+
+ tentzioatl_area: "Tentzioatl"
+ tentzioatl_area_name: "Tentzioatl"
+ tentzioatl_area_adj: "Tentzioatl"
+
+ teztoli_area: "Teztoli"
+ teztoli_area_name: "Teztoli"
+ teztoli_area_adj: "Teztoli"
+
+ chizahlea_area: "Chizahlea"
+ chizahlea_area_name: "Chizahlea"
+ chizahlea_area_adj: "Chizahlea"
+
+ huizalcoyhuitl_area: "Huizalcoyhuitl"
+ huizalcoyhuitl_area_name: "Huizalcoyhuitl"
+ huizalcoyhuitl_area_adj: "Huizalcoyhuitl"
+
+ coaley_area: "Coaley"
+ coaley_area_name: "Coaley"
+ coaley_area_adj: "Coaley"
+
+ cittzpina_area: "Cittzpina"
+ cittzpina_area_name: "Cittzpina"
+ cittzpina_area_adj: "Cittzpina"
+
+ tenhutzahtlan_area: "Tenhutzahtlan"
+ tenhutzahtlan_area_name: "Tenhutzahtlan"
+ tenhutzahtlan_area_adj: "Tenhutzahtlan"
+
+ guatlan_area: "Guatlan"
+ guatlan_area_name: "Guatlan"
+ guatlan_area_adj: "Guatlan"
+
+ ciziley_area: "Ciziley"
+ ciziley_area_name: "Ciziley"
+ ciziley_area_adj: "Ciziley"
+
+ matualtic_area: "Matualtic"
+ matualtic_area_name: "Matualtic"
+ matualtic_area_adj: "Matualtic"
+
+ itztlanualzi_area: "Itztlanualzi"
+ itztlanualzi_area_name: "Itztlanualzi"
+ itztlanualzi_area_adj: "Itztlanualzi"
+
+ tezliina_area: "Tezliina"
+ tezliina_area_name: "Tezliina"
+ tezliina_area_adj: "Tezliina"
+
+ citopactlan_area: "Citopactlan"
+ citopactlan_area_name: "Citopactlan"
+ citopactlan_area_adj: "Citopactlan"
+
+ guatlancoyzuma_area: "Guatlancoyzuma"
+ guatlancoyzuma_area_name: "Guatlancoyzuma"
+ guatlancoyzuma_area_adj: "Guatlancoyzuma"
+
+ ohtzahatl_area: "Ohtzahatl"
+ ohtzahatl_area_name: "Ohtzahatl"
+ ohtzahatl_area_adj: "Ohtzahatl"
+
+ cicacmalnal_area: "Cicacmalnal"
+ cicacmalnal_area_name: "Cicacmalnal"
+ cicacmalnal_area_adj: "Cicacmalnal"
+
+ guaatcaccali_area: "Guaatcaccali"
+ guaatcaccali_area_name: "Guaatcaccali"
+ guaatcaccali_area_adj: "Guaatcaccali"
+
+ cuaka_area: "Cuaka"
+ cuaka_area_name: "Cuaka"
+ cuaka_area_adj: "Cuaka"
+
+ coaziatl_area: "Coaziatl"
+ coaziatl_area_name: "Coaziatl"
+ coaziatl_area_adj: "Coaziatl"
+
+ acatzpzahka_area: "Acatzpzahka"
+ acatzpzahka_area_name: "Acatzpzahka"
+ acatzpzahka_area_adj: "Acatzpzahka"
+
+ montemtic_area: "Montemtic"
+ montemtic_area_name: "Montemtic"
+ montemtic_area_adj: "Montemtic"
+
+ citoch_area: "Citoch"
+ citoch_area_name: "Citoch"
+ citoch_area_adj: "Citoch"
+
+ tentozahka_area: "Tentozahka"
+ tentozahka_area_name: "Tentozahka"
+ tentozahka_area_adj: "Tentozahka"
+
+ ichattlioch_area: "Ichattlioch"
+ ichattlioch_area_name: "Ichattlioch"
+ ichattlioch_area_adj: "Ichattlioch"
+
+ tezallzahcali_area: "Tezallzahcali"
+ tezallzahcali_area_name: "Tezallzahcali"
+ tezallzahcali_area_adj: "Tezallzahcali"
+
+ cicoatl_area: "Cicoatl"
+ cicoatl_area_name: "Cicoatl"
+ cicoatl_area_adj: "Cicoatl"
+
+ citlilan_area: "Citlilan"
+ citlilan_area_name: "Citlilan"
+ citlilan_area_adj: "Citlilan"
+
+ nahutzpea_area: "Nahutzpea"
+ nahutzpea_area_name: "Nahutzpea"
+ nahutzpea_area_adj: "Nahutzpea"
+
+ acanal_area: "Acanal"
+ acanal_area_name: "Acanal"
+ acanal_area_adj: "Acanal"
+
+ citepacoatl_area: "Citepacoatl"
+ citepacoatl_area_name: "Citepacoatl"
+ citepacoatl_area_adj: "Citepacoatl"
+
+ ohtka_area: "Ohtka"
+ ohtka_area_name: "Ohtka"
+ ohtka_area_adj: "Ohtka"
+
+ ichattocoatl_area: "Ichattocoatl"
+ ichattocoatl_area_name: "Ichattocoatl"
+ ichattocoatl_area_adj: "Ichattocoatl"
+
+ montohuitl_area: "Montohuitl"
+ montohuitl_area_name: "Montohuitl"
+ montohuitl_area_adj: "Montohuitl"
+
+ cicoyuallee_area: "Cicoyuallee"
+ cicoyuallee_area_name: "Cicoyuallee"
+ cicoyuallee_area_adj: "Cicoyuallee"
+
+ eztzpatl_area: "Eztzpatl"
+ eztzpatl_area_name: "Eztzpatl"
+ eztzpatl_area_adj: "Eztzpatl"
+
+ quetlaliotl_area: "Quetlaliotl"
+ quetlaliotl_area_name: "Quetlaliotl"
+ quetlaliotl_area_adj: "Quetlaliotl"
+
+ matzallin_area: "Matzallin"
+ matzallin_area_name: "Matzallin"
+ matzallin_area_adj: "Matzallin"
+
+ ichzalatl_area: "Ichzalatl"
+ ichzalatl_area_name: "Ichzalatl"
+ ichzalatl_area_adj: "Ichzalatl"
+
+ micnal_area: "Micnal"
+ micnal_area_name: "Micnal"
+ micnal_area_adj: "Micnal"
+
+ mattlan_area: "Mattlan"
+ mattlan_area_name: "Mattlan"
+ mattlan_area_adj: "Mattlan"
+
+ ezteeoch_area: "Ezteeoch"
+ ezteeoch_area_name: "Ezteeoch"
+ ezteeoch_area_adj: "Ezteeoch"
+
+ itzlaliziea_area: "Itzlaliziea"
+ itzlaliziea_area_name: "Itzlaliziea"
+ itzlaliziea_area_adj: "Itzlaliziea"
+
+ gualee_area: "Gualee"
+ gualee_area_name: "Gualee"
+ gualee_area_adj: "Gualee"
+
+ ciualzilea_area: "Ciualzilea"
+ ciualzilea_area_name: "Ciualzilea"
+ ciualzilea_area_adj: "Ciualzilea"
+
+ ezcacoch_area: "Ezcacoch"
+ ezcacoch_area_name: "Ezcacoch"
+ ezcacoch_area_adj: "Ezcacoch"
+
+ ohtea_area: "Ohtea"
+ ohtea_area_name: "Ohtea"
+ ohtea_area_adj: "Ohtea"
+
+ ohtoatl_area: "Ohtoatl"
+ ohtoatl_area_name: "Ohtoatl"
+ ohtoatl_area_adj: "Ohtoatl"
+
+ ococoatl_area: "Ococoatl"
+ ococoatl_area_name: "Ococoatl"
+ ococoatl_area_adj: "Ococoatl"
+
+ ohtley_area: "Ohtley"
+ ohtley_area_name: "Ohtley"
+ ohtley_area_adj: "Ohtley"
+
+ ohtnexzalatl_area: "Ohtnexzalatl"
+ ohtnexzalatl_area_name: "Ohtnexzalatl"
+ ohtnexzalatl_area_adj: "Ohtnexzalatl"
+
+ ocohuitl_area: "Ocohuitl"
+ ocohuitl_area_name: "Ocohuitl"
+ ocohuitl_area_adj: "Ocohuitl"
+
+ acatecuhuthtli_area: "Acatecuhuthtli"
+ acatecuhuthtli_area_name: "Acatecuhuthtli"
+ acatecuhuthtli_area_adj: "Acatecuhuthtli"
+
+ itznextzpcoatl_area: "Itznextzpcoatl"
+ itznextzpcoatl_area_name: "Itznextzpcoatl"
+ itznextzpcoatl_area_adj: "Itznextzpcoatl"
+
+ ocoallhutina_area: "Ocoallhutina"
+ ocoallhutina_area_name: "Ocoallhutina"
+ ocoallhutina_area_adj: "Ocoallhutina"
+
+ cilea_area: "Cilea"
+ cilea_area_name: "Cilea"
+ cilea_area_adj: "Cilea"
+
+ gualea_area: "Gualea"
+ gualea_area_name: "Gualea"
+ gualea_area_adj: "Gualea"
+
+ cuaalatlan_area: "Cuaalatlan"
+ cuaalatlan_area_name: "Cuaalatlan"
+ cuaalatlan_area_adj: "Cuaalatlan"
+
+ citzplan_area: "Citzplan"
+ citzplan_area_name: "Citzplan"
+ citzplan_area_adj: "Citzplan"
+
+ montzpoc_area: "Montzpoc"
+ montzpoc_area_name: "Montzpoc"
+ montzpoc_area_adj: "Montzpoc"
+
+ tentzpli_area: "Tentzpli"
+ tentzpli_area_name: "Tentzpli"
+ tentzpli_area_adj: "Tentzpli"
+
+ coateculi_area: "Coateculi"
+ coateculi_area_name: "Coateculi"
+ coateculi_area_adj: "Coateculi"
+
+ quetnexcali_area: "Quetnexcali"
+ quetnexcali_area_name: "Quetnexcali"
+ quetnexcali_area_adj: "Quetnexcali"
+
+ huiualoch_area: "Huiualoch"
+ huiualoch_area_name: "Huiualoch"
+ huiualoch_area_adj: "Huiualoch"
+
+ tennexhtli_area: "Tennexhtli"
+ tennexhtli_area_name: "Tennexhtli"
+ tennexhtli_area_adj: "Tennexhtli"
+
+ quetley_area: "Quetley"
+ quetley_area_name: "Quetley"
+ quetley_area_adj: "Quetley"
+
+ netliualhtli_area: "Netliualhtli"
+ netliualhtli_area_name: "Netliualhtli"
+ netliualhtli_area_adj: "Netliualhtli"
+
+ coatacea_area: "Coatacea"
+ coatacea_area_name: "Coatacea"
+ coatacea_area_adj: "Coatacea"
+
+ eztzpmoc_area: "Eztzpmoc"
+ eztzpmoc_area_name: "Eztzpmoc"
+ eztzpmoc_area_adj: "Eztzpmoc"
+
+ mictzplee_area: "Mictzplee"
+ mictzplee_area_name: "Mictzplee"
+ mictzplee_area_adj: "Mictzplee"
+
+ cizalmoc_area: "Cizalmoc"
+ cizalmoc_area_name: "Cizalmoc"
+ cizalmoc_area_adj: "Cizalmoc"
+
+ micattlan_area: "Micattlan"
+ micattlan_area_name: "Micattlan"
+ micattlan_area_adj: "Micattlan"
+
+ monallatl_area: "Monallatl"
+ monallatl_area_name: "Monallatl"
+ monallatl_area_adj: "Monallatl"
+
+ illzihtli_area: "Illzihtli"
+ illzihtli_area_name: "Illzihtli"
+ illzihtli_area_adj: "Illzihtli"
+
+ citzpina_area: "Citzpina"
+ citzpina_area_name: "Citzpina"
+ citzpina_area_adj: "Citzpina"
+
+ tezatcali_area: "Tezatcali"
+ tezatcali_area_name: "Tezatcali"
+ tezatcali_area_adj: "Tezatcali"
+
+ micalcoytli_area: "Micalcoytli"
+ micalcoytli_area_name: "Micalcoytli"
+ micalcoytli_area_adj: "Micalcoytli"
+
+ chicoytemea_area: "Chicoytemea"
+ chicoytemea_area_name: "Chicoytemea"
+ chicoytemea_area_adj: "Chicoytemea"
+
+ coazilalea_area: "Coazilalea"
+ coazilalea_area_name: "Coazilalea"
+ coazilalea_area_adj: "Coazilalea"
+
+ guazitlannal_area: "Guazitlannal"
+ guazitlannal_area_name: "Guazitlannal"
+ guazitlannal_area_adj: "Guazitlannal"
+
+ coazalzi_area: "Coazalzi"
+ coazalzi_area_name: "Coazalzi"
+ coazalzi_area_adj: "Coazalzi"
+
+ illtlanteeka_area: "Illtlanteeka"
+ illtlanteeka_area_name: "Illtlanteeka"
+ illtlanteeka_area_adj: "Illtlanteeka"
+
+ tenka_area: "Tenka"
+ tenka_area_name: "Tenka"
+ tenka_area_adj: "Tenka"
+
+ huitemualka_area: "Huitemualka"
+ huitemualka_area_name: "Huitemualka"
+ huitemualka_area_adj: "Huitemualka"
+
+ micpaclee_area: "Micpaclee"
+ micpaclee_area_name: "Micpaclee"
+ micpaclee_area_adj: "Micpaclee"
+
+ ohtzalatl_area: "Ohtzalatl"
+ ohtzalatl_area_name: "Ohtzalatl"
+ ohtzalatl_area_adj: "Ohtzalatl"
+
+ citic_area: "Citic"
+ citic_area_name: "Citic"
+ citic_area_adj: "Citic"
+
+ tentlantzptic_area: "Tentlantzptic"
+ tentlantzptic_area_name: "Tentlantzptic"
+ tentlantzptic_area_adj: "Tentlantzptic"
+
+ micteeoatl_area: "Micteeoatl"
+ micteeoatl_area_name: "Micteeoatl"
+ micteeoatl_area_adj: "Micteeoatl"
+
+ micteka_area: "Micteka"
+ micteka_area_name: "Micteka"
+ micteka_area_adj: "Micteka"
+
+ illzahzahzi_area: "Illzahzahzi"
+ illzahzahzi_area_name: "Illzahzahzi"
+ illzahzahzi_area_adj: "Illzahzahzi"
+
+ guatzilahtli_area: "Guatzilahtli"
+ guatzilahtli_area_name: "Guatzilahtli"
+ guatzilahtli_area_adj: "Guatzilahtli"
+
+ tentemka_area: "Tentemka"
+ tentemka_area_name: "Tentemka"
+ tentemka_area_adj: "Tentemka"
+
+ cittemoch_area: "Cittemoch"
+ cittemoch_area_name: "Cittemoch"
+ cittemoch_area_adj: "Cittemoch"
+
+ chimoc_area: "Chimoc"
+ chimoc_area_name: "Chimoc"
+ chimoc_area_adj: "Chimoc"
+
+ miccamtl_area: "Miccamtl"
+ miccamtl_area_name: "Miccamtl"
+ miccamtl_area_adj: "Miccamtl"
+
+ illoch_area: "Illoch"
+ illoch_area_name: "Illoch"
+ illoch_area_adj: "Illoch"
+
+ cipactematl_area: "Cipactematl"
+ cipactematl_area_name: "Cipactematl"
+ cipactematl_area_adj: "Cipactematl"
+
+ ichzitic_area: "Ichzitic"
+ ichzitic_area_name: "Ichzitic"
+ ichzitic_area_adj: "Ichzitic"
+
+ nahulee_area: "Nahulee"
+ nahulee_area_name: "Nahulee"
+ nahulee_area_adj: "Nahulee"
+
+ chicoynal_area: "Chicoynal"
+ chicoynal_area_name: "Chicoynal"
+ chicoynal_area_adj: "Chicoynal"
+
+ nahunal_area: "Nahunal"
+ nahunal_area_name: "Nahunal"
+ nahunal_area_adj: "Nahunal"
+
+ miczilan_area: "Miczilan"
+ miczilan_area_name: "Miczilan"
+ miczilan_area_adj: "Miczilan"
+
+ netmaltlitic_area: "Netmaltlitic"
+ netmaltlitic_area_name: "Netmaltlitic"
+ netmaltlitic_area_adj: "Netmaltlitic"
+
+ eztlitli_area: "Eztlitli"
+ eztlitli_area_name: "Eztlitli"
+ eztlitli_area_adj: "Eztlitli"
+
+ netziteetl_area: "Netziteetl"
+ netziteetl_area_name: "Netziteetl"
+ netziteetl_area_adj: "Netziteetl"
+
+ nettecutemzi_area: "Nettecutemzi"
+ nettecutemzi_area_name: "Nettecutemzi"
+ nettecutemzi_area_adj: "Nettecutemzi"
+
+ ezmoc_area: "Ezmoc"
+ ezmoc_area_name: "Ezmoc"
+ ezmoc_area_adj: "Ezmoc"
+
+ gualalan_area: "Gualalan"
+ gualalan_area_name: "Gualalan"
+ gualalan_area_adj: "Gualalan"
+
+ ichlee_area: "Ichlee"
+ ichlee_area_name: "Ichlee"
+ ichlee_area_adj: "Ichlee"
+
+ huinextlanka_area: "Huinextlanka"
+ huinextlanka_area_name: "Huinextlanka"
+ huinextlanka_area_adj: "Huinextlanka"
+
+ huilan_area: "Huilan"
+ huilan_area_name: "Huilan"
+ huilan_area_adj: "Huilan"
+
+ coatzioatl_area: "Coatzioatl"
+ coatzioatl_area_name: "Coatzioatl"
+ coatzioatl_area_adj: "Coatzioatl"
+
+ cililea_area: "Cililea"
+ cililea_area_name: "Cililea"
+ cililea_area_adj: "Cililea"
+
+ matlitolea_area: "Matlitolea"
+ matlitolea_area_name: "Matlitolea"
+ matlitolea_area_adj: "Matlitolea"
+
+ eztooch_area: "Eztooch"
+ eztooch_area_name: "Eztooch"
+ eztooch_area_adj: "Eztooch"
+
+ acaea_area: "Acaea"
+ acaea_area_name: "Acaea"
+ acaea_area_adj: "Acaea"
+
+ quetlaliteenal_area: "Quetlaliteenal"
+ quetlaliteenal_area_name: "Quetlaliteenal"
+ quetlaliteenal_area_adj: "Quetlaliteenal"
+
+ netuallea_area: "Netuallea"
+ netuallea_area_name: "Netuallea"
+ netuallea_area_adj: "Netuallea"
+
+ itzhutteculee_area: "Itzhutteculee"
+ itzhutteculee_area_name: "Itzhutteculee"
+ itzhutteculee_area_adj: "Itzhutteculee"
+
+ cicoylacoatl_area: "Cicoylacoatl"
+ cicoylacoatl_area_name: "Cicoylacoatl"
+ cicoylacoatl_area_adj: "Cicoylacoatl"
+
+ miccaczinal_area: "Miccaczinal"
+ miccaczinal_area_name: "Miccaczinal"
+ miccaczinal_area_adj: "Miccaczinal"
+
+ citzi_area: "Citzi"
+ citzi_area_name: "Citzi"
+ citzi_area_adj: "Citzi"
+
+ mictl_area: "Mictl"
+ mictl_area_name: "Mictl"
+ mictl_area_adj: "Mictl"
+
+ ohtaloatl_area: "Ohtaloatl"
+ ohtaloatl_area_name: "Ohtaloatl"
+ ohtaloatl_area_adj: "Ohtaloatl"
+
+ ciallteeley_area: "Ciallteeley"
+ ciallteeley_area_name: "Ciallteeley"
+ ciallteeley_area_adj: "Ciallteeley"
+
+ chitlannexley_area: "Chitlannexley"
+ chitlannexley_area_name: "Chitlannexley"
+ chitlannexley_area_adj: "Chitlannexley"
+
+ ezlalimoc_area: "Ezlalimoc"
+ ezlalimoc_area_name: "Ezlalimoc"
+ ezlalimoc_area_adj: "Ezlalimoc"
+
+ quetallziatl_area: "Quetallziatl"
+ quetallziatl_area_name: "Quetallziatl"
+ quetallziatl_area_adj: "Quetallziatl"
+
+ huiatl_area: "Huiatl"
+ huiatl_area_name: "Huiatl"
+ huiatl_area_adj: "Huiatl"
+
+ matualteculi_area: "Matualteculi"
+ matualteculi_area_name: "Matualteculi"
+ matualteculi_area_adj: "Matualteculi"
+
+ ocolaualina_area: "Ocolaualina"
+ ocolaualina_area_name: "Ocolaualina"
+ ocolaualina_area_adj: "Ocolaualina"
+
+ chitzpualtic_area: "Chitzpualtic"
+ chitzpualtic_area_name: "Chitzpualtic"
+ chitzpualtic_area_adj: "Chitzpualtic"
+
+ guaalea_area: "Guaalea"
+ guaalea_area_name: "Guaalea"
+ guaalea_area_adj: "Guaalea"
+
+ acaallitic_area: "Acaallitic"
+ acaallitic_area_name: "Acaallitic"
+ acaallitic_area_adj: "Acaallitic"
+
+ monteezalcali_area: "Monteezalcali"
+ monteezalcali_area_name: "Monteezalcali"
+ monteezalcali_area_adj: "Monteezalcali"
+
+ matcaczi_area: "Matcaczi"
+ matcaczi_area_name: "Matcaczi"
+ matcaczi_area_adj: "Matcaczi"
+
+ ohtli_area: "Ohtli"
+ ohtli_area_name: "Ohtli"
+ ohtli_area_adj: "Ohtli"
+
+ netli_area: "Netli"
+ netli_area_name: "Netli"
+ netli_area_adj: "Netli"
+
+ tenotl_area: "Tenotl"
+ tenotl_area_name: "Tenotl"
+ tenotl_area_adj: "Tenotl"
+
+ eztzpoch_area: "Eztzpoch"
+ eztzpoch_area_name: "Eztzpoch"
+ eztzpoch_area_adj: "Eztzpoch"
+
+ ahuley_area: "Ahuley"
+ ahuley_area_name: "Ahuley"
+ ahuley_area_adj: "Ahuley"
+
+ quetatl_area: "Quetatl"
+ quetatl_area_name: "Quetatl"
+ quetatl_area_adj: "Quetatl"
+
+ citaczicali_area: "Citaczicali"
+ citaczicali_area_name: "Citaczicali"
+ citaczicali_area_adj: "Citaczicali"
+
+ ocotlan_area: "Ocotlan"
+ ocotlan_area_name: "Ocotlan"
+ ocotlan_area_adj: "Ocotlan"
+
+ coaotl_area: "Coaotl"
+ coaotl_area_name: "Coaotl"
+ coaotl_area_adj: "Coaotl"
+
+ acanexoatl_area: "Acanexoatl"
+ acanexoatl_area_name: "Acanexoatl"
+ acanexoatl_area_adj: "Acanexoatl"
+
+ citzitzinal_area: "Citzitzinal"
+ citzitzinal_area_name: "Citzitzinal"
+ citzitzinal_area_adj: "Citzitzinal"
+
+ acalee_area: "Acalee"
+ acalee_area_name: "Acalee"
+ acalee_area_adj: "Acalee"
+
+ chicali_area: "Chicali"
+ chicali_area_name: "Chicali"
+ chicali_area_adj: "Chicali"
+
+ huitematl_area: "Huitematl"
+ huitematl_area_name: "Huitematl"
+ huitematl_area_adj: "Huitematl"
+
+ quetlan_area: "Quetlan"
+ quetlan_area_name: "Quetlan"
+ quetlan_area_adj: "Quetlan"
+
+ citlatli_area: "Citlatli"
+ citlatli_area_name: "Citlatli"
+ citlatli_area_adj: "Citlatli"
+
+ tezzahlan_area: "Tezzahlan"
+ tezzahlan_area_name: "Tezzahlan"
+ tezzahlan_area_adj: "Tezzahlan"
+
+ moncamtli_area: "Moncamtli"
+ moncamtli_area_name: "Moncamtli"
+ moncamtli_area_adj: "Moncamtli"
+
+ tezallualzi_area: "Tezallualzi"
+ tezallualzi_area_name: "Tezallualzi"
+ tezallualzi_area_adj: "Tezallualzi"
+
+ cuatlantecuea_area: "Cuatlantecuea"
+ cuatlantecuea_area_name: "Cuatlantecuea"
+ cuatlantecuea_area_adj: "Cuatlantecuea"
+
+ huilee_area: "Huilee"
+ huilee_area_name: "Huilee"
+ huilee_area_adj: "Huilee"
+
+ guahutoatl_area: "Guahutoatl"
+ guahutoatl_area_name: "Guahutoatl"
+ guahutoatl_area_adj: "Guahutoatl"
+
+ ahuoatl_area: "Ahuoatl"
+ ahuoatl_area_name: "Ahuoatl"
+ ahuoatl_area_adj: "Ahuoatl"
+
+ quettactoatl_area: "Quettactoatl"
+ quettactoatl_area_name: "Quettactoatl"
+ quettactoatl_area_adj: "Quettactoatl"
+
+ mattlicali_area: "Mattlicali"
+ mattlicali_area_name: "Mattlicali"
+ mattlicali_area_adj: "Mattlicali"
+
+ tentotzpmoc_area: "Tentotzpmoc"
+ tentotzpmoc_area_name: "Tentotzpmoc"
+ tentotzpmoc_area_adj: "Tentotzpmoc"
+
+ tezzuma_area: "Tezzuma"
+ tezzuma_area_name: "Tezzuma"
+ tezzuma_area_adj: "Tezzuma"
+
+ ocohuttlan_area: "Ocohuttlan"
+ ocohuttlan_area_name: "Ocohuttlan"
+ ocohuttlan_area_adj: "Ocohuttlan"
+
+ cuataclee_area: "Cuataclee"
+ cuataclee_area_name: "Cuataclee"
+ cuataclee_area_adj: "Cuataclee"
+
+ monualtl_area: "Monualtl"
+ monualtl_area_name: "Monualtl"
+ monualtl_area_adj: "Monualtl"
+
+ gualiatl_area: "Gualiatl"
+ gualiatl_area_name: "Gualiatl"
+ gualiatl_area_adj: "Gualiatl"
+
+ matpactl_area: "Matpactl"
+ matpactl_area_name: "Matpactl"
+ matpactl_area_adj: "Matpactl"
+
+ cilaliina_area: "Cilaliina"
+ cilaliina_area_name: "Cilaliina"
+ cilaliina_area_adj: "Cilaliina"
+
+ ichziatl_area: "Ichziatl"
+ ichziatl_area_name: "Ichziatl"
+ ichziatl_area_adj: "Ichziatl"
+
+ itzka_area: "Itzka"
+ itzka_area_name: "Itzka"
+ itzka_area_adj: "Itzka"
+
+ acamaltlan_area: "Acamaltlan"
+ acamaltlan_area_name: "Acamaltlan"
+ acamaltlan_area_adj: "Acamaltlan"
+
+ ahuattl_area: "Ahuattl"
+ ahuattl_area_name: "Ahuattl"
+ ahuattl_area_adj: "Ahuattl"
+
+ montlitziley_area: "Montlitziley"
+ montlitziley_area_name: "Montlitziley"
+ montlitziley_area_adj: "Montlitziley"
+
+ acatic_area: "Acatic"
+ acatic_area_name: "Acatic"
+ acatic_area_adj: "Acatic"
+
+ cinexzalotl_area: "Cinexzalotl"
+ cinexzalotl_area_name: "Cinexzalotl"
+ cinexzalotl_area_adj: "Cinexzalotl"
+
+ nettl_area: "Nettl"
+ nettl_area_name: "Nettl"
+ nettl_area_adj: "Nettl"
+
+ cilatlan_area: "Cilatlan"
+ cilatlan_area_name: "Cilatlan"
+ cilatlan_area_adj: "Cilatlan"
+
+ tenlilea_area: "Tenlilea"
+ tenlilea_area_name: "Tenlilea"
+ tenlilea_area_adj: "Tenlilea"
+
+ tenzilaley_area: "Tenzilaley"
+ tenzilaley_area_name: "Tenzilaley"
+ tenzilaley_area_adj: "Tenzilaley"
+
+ ocotelee_area: "Ocotelee"
+ ocotelee_area_name: "Ocotelee"
+ ocotelee_area_adj: "Ocotelee"
+
+ illtactzilea_area: "Illtactzilea"
+ illtactzilea_area_name: "Illtactzilea"
+ illtactzilea_area_adj: "Illtactzilea"
+
+ coalahuitl_area: "Coalahuitl"
+ coalahuitl_area_name: "Coalahuitl"
+ coalahuitl_area_adj: "Coalahuitl"
+
+ micatl_area: "Micatl"
+ micatl_area_name: "Micatl"
+ micatl_area_adj: "Micatl"
+
+ coaziotl_area: "Coaziotl"
+ coaziotl_area_name: "Coaziotl"
+ coaziotl_area_adj: "Coaziotl"
+
+ tencamoc_area: "Tencamoc"
+ tencamoc_area_name: "Tencamoc"
+ tencamoc_area_adj: "Tencamoc"
+
+ ohttecutli_area: "Ohttecutli"
+ ohttecutli_area_name: "Ohttecutli"
+ ohttecutli_area_adj: "Ohttecutli"
+
+ acazuma_area: "Acazuma"
+ acazuma_area_name: "Acazuma"
+ acazuma_area_adj: "Acazuma"
+
+ micteetli_area: "Micteetli"
+ micteetli_area_name: "Micteetli"
+ micteetli_area_adj: "Micteetli"
+
+ moncoymalzuma_area: "Moncoymalzuma"
+ moncoymalzuma_area_name: "Moncoymalzuma"
+ moncoymalzuma_area_adj: "Moncoymalzuma"
+
+ acatecucamzi_area: "Acatecucamzi"
+ acatecucamzi_area_name: "Acatecucamzi"
+ acatecucamzi_area_adj: "Acatecucamzi"
+
+ cuataczalzi_area: "Cuataczalzi"
+ cuataczalzi_area_name: "Cuataczalzi"
+ cuataczalzi_area_adj: "Cuataczalzi"
+
+ illoc_area: "Illoc"
+ illoc_area_name: "Illoc"
+ illoc_area_adj: "Illoc"
+
+ miccacliatl_area: "Miccacliatl"
+ miccacliatl_area_name: "Miccacliatl"
+ miccacliatl_area_adj: "Miccacliatl"
+
+ ocooatl_area: "Ocooatl"
+ ocooatl_area_name: "Ocooatl"
+ ocooatl_area_adj: "Ocooatl"
+
+ nahucactactli_area: "Nahucactactli"
+ nahucactactli_area_name: "Nahucactactli"
+ nahucactactli_area_adj: "Nahucactactli"
+
+ ocozalley_area: "Ocozalley"
+ ocozalley_area_name: "Ocozalley"
+ ocozalley_area_adj: "Ocozalley"
+
+ ahuatl_area: "Ahuatl"
+ ahuatl_area_name: "Ahuatl"
+ ahuatl_area_adj: "Ahuatl"
+
+ guatzitzpoatl_area: "Guatzitzpoatl"
+ guatzitzpoatl_area_name: "Guatzitzpoatl"
+ guatzitzpoatl_area_adj: "Guatzitzpoatl"
+
+ tezallzalley_area: "Tezallzalley"
+ tezallzalley_area_name: "Tezallzalley"
+ tezallzalley_area_adj: "Tezallzalley"
+
+ quettecoatl_area: "Quettecoatl"
+ quettecoatl_area_name: "Quettecoatl"
+ quettecoatl_area_adj: "Quettecoatl"
+
+ itztemtlan_area: "Itztemtlan"
+ itztemtlan_area_name: "Itztemtlan"
+ itztemtlan_area_adj: "Itztemtlan"
+
+ nahunextemlea_area: "Nahunextemlea"
+ nahunextemlea_area_name: "Nahunextemlea"
+ nahunextemlea_area_adj: "Nahunextemlea"
+
+ ocoka_area: "Ocoka"
+ ocoka_area_name: "Ocoka"
+ ocoka_area_adj: "Ocoka"
+
+ itzteepachtli_area: "Itzteepachtli"
+ itzteepachtli_area_name: "Itzteepachtli"
+ itzteepachtli_area_adj: "Itzteepachtli"
+
+ ahutecutlitli_area: "Ahutecutlitli"
+ ahutecutlitli_area_name: "Ahutecutlitli"
+ ahutecutlitli_area_adj: "Ahutecutlitli"
+
+ ahutecutotli_area: "Ahutecutotli"
+ ahutecutotli_area_name: "Ahutecutotli"
+ ahutecutotli_area_adj: "Ahutecutotli"
+
+ cuatecuhtli_area: "Cuatecuhtli"
+ cuatecuhtli_area_name: "Cuatecuhtli"
+ cuatecuhtli_area_adj: "Cuatecuhtli"
+
+ mattli_area: "Mattli"
+ mattli_area_name: "Mattli"
+ mattli_area_adj: "Mattli"
+
+ tezteeli_area: "Tezteeli"
+ tezteeli_area_name: "Tezteeli"
+ tezteeli_area_adj: "Tezteeli"
+
+ miccaclea_area: "Miccaclea"
+ miccaclea_area_name: "Miccaclea"
+ miccaclea_area_adj: "Miccaclea"
+
+ monlee_area: "Monlee"
+ monlee_area_name: "Monlee"
+ monlee_area_adj: "Monlee"
+
+ ocohtli_area: "Ocohtli"
+ ocohtli_area_name: "Ocohtli"
+ ocohtli_area_adj: "Ocohtli"
+
+ acatecutzplin_area: "Acatecutzplin"
+ acatecutzplin_area_name: "Acatecutzplin"
+ acatecutzplin_area_adj: "Acatecutzplin"
+
+ itznexzalhtli_area: "Itznexzalhtli"
+ itznexzalhtli_area_name: "Itznexzalhtli"
+ itznexzalhtli_area_adj: "Itznexzalhtli"
+
+ teztelalea_area: "Teztelalea"
+ teztelalea_area_name: "Teztelalea"
+ teztelalea_area_adj: "Teztelalea"
+
+ eztziatl_area: "Eztziatl"
+ eztziatl_area_name: "Eztziatl"
+ eztziatl_area_adj: "Eztziatl"
+
+ teztlizi_area: "Teztlizi"
+ teztlizi_area_name: "Teztlizi"
+ teztlizi_area_adj: "Teztlizi"
+
+ acaallhtli_area: "Acaallhtli"
+ acaallhtli_area_name: "Acaallhtli"
+ acaallhtli_area_adj: "Acaallhtli"
+
+ ahuualoc_area: "Ahuualoc"
+ ahuualoc_area_name: "Ahuualoc"
+ ahuualoc_area_adj: "Ahuualoc"
+
+ nettlan_area: "Nettlan"
+ nettlan_area_name: "Nettlan"
+ nettlan_area_adj: "Nettlan"
+
+ illlea_area: "Illlea"
+ illlea_area_name: "Illlea"
+ illlea_area_adj: "Illlea"
+
+ huipacteeoch_area: "Huipacteeoch"
+ huipacteeoch_area_name: "Huipacteeoch"
+ huipacteeoch_area_adj: "Huipacteeoch"
+
+ ezatl_area: "Ezatl"
+ ezatl_area_name: "Ezatl"
+ ezatl_area_adj: "Ezatl"
+
+ acatactlanlea_area: "Acatactlanlea"
+ acatactlanlea_area_name: "Acatactlanlea"
+ acatactlanlea_area_adj: "Acatactlanlea"
+
+ acalan_area: "Acalan"
+ acalan_area_name: "Acalan"
+ acalan_area_adj: "Acalan"
+
+ coaalllalicoatl_area: "Coaalllalicoatl"
+ coaalllalicoatl_area_name: "Coaalllalicoatl"
+ coaalllalicoatl_area_adj: "Coaalllalicoatl"
+
+ cuaualcali_area: "Cuaualcali"
+ cuaualcali_area_name: "Cuaualcali"
+ cuaualcali_area_adj: "Cuaualcali"
+
+ ichtlancoatl_area: "Ichtlancoatl"
+ ichtlancoatl_area_name: "Ichtlancoatl"
+ ichtlancoatl_area_adj: "Ichtlancoatl"
+
+ quettlanteotl_area: "Quettlanteotl"
+ quettlanteotl_area_name: "Quettlanteotl"
+ quettlanteotl_area_adj: "Quettlanteotl"
+
+ ahulin_area: "Ahulin"
+ ahulin_area_name: "Ahulin"
+ ahulin_area_adj: "Ahulin"
+
+ ohtoch_area: "Ohtoch"
+ ohtoch_area_name: "Ohtoch"
+ ohtoch_area_adj: "Ohtoch"
+
+ cicoytzitli_area: "Cicoytzitli"
+ cicoytzitli_area_name: "Cicoytzitli"
+ cicoytzitli_area_adj: "Cicoytzitli"
+
+ citmalcoatl_area: "Citmalcoatl"
+ citmalcoatl_area_name: "Citmalcoatl"
+ citmalcoatl_area_adj: "Citmalcoatl"
+
+ cuaatl_area: "Cuaatl"
+ cuaatl_area_name: "Cuaatl"
+ cuaatl_area_adj: "Cuaatl"
+
+ nettzilee_area: "Nettzilee"
+ nettzilee_area_name: "Nettzilee"
+ nettzilee_area_adj: "Nettzilee"
+
+ illtecuhtli_area: "Illtecuhtli"
+ illtecuhtli_area_name: "Illtecuhtli"
+ illtecuhtli_area_adj: "Illtecuhtli"
+
+ monalllee_area: "Monalllee"
+ monalllee_area_name: "Monalllee"
+ monalllee_area_adj: "Monalllee"
+
+ ohtmaltziley_area: "Ohtmaltziley"
+ ohtmaltziley_area_name: "Ohtmaltziley"
+ ohtmaltziley_area_adj: "Ohtmaltziley"
+
+ guaotl_area: "Guaotl"
+ guaotl_area_name: "Guaotl"
+ guaotl_area_adj: "Guaotl"
+
+ cuatecumalatl_area: "Cuatecumalatl"
+ cuatecumalatl_area_name: "Cuatecumalatl"
+ cuatecumalatl_area_adj: "Cuatecumalatl"
+
+ cualan_area: "Cualan"
+ cualan_area_name: "Cualan"
+ cualan_area_adj: "Cualan"
+
+ cilitlilan_area: "Cilitlilan"
+ cilitlilan_area_name: "Cilitlilan"
+ cilitlilan_area_adj: "Cilitlilan"
+
+ mattlitic_area: "Mattlitic"
+ mattlitic_area_name: "Mattlitic"
+ mattlitic_area_adj: "Mattlitic"
+
+ chilihtli_area: "Chilihtli"
+ chilihtli_area_name: "Chilihtli"
+ chilihtli_area_adj: "Chilihtli"
+
+ cittetecuzi_area: "Cittetecuzi"
+ cittetecuzi_area_name: "Cittetecuzi"
+ cittetecuzi_area_adj: "Cittetecuzi"
+
+ monea_area: "Monea"
+ monea_area_name: "Monea"
+ monea_area_adj: "Monea"
+
+ mattlilan_area: "Mattlilan"
+ mattlilan_area_name: "Mattlilan"
+ mattlilan_area_adj: "Mattlilan"
+
+ ezcoylalitli_area: "Ezcoylalitli"
+ ezcoylalitli_area_name: "Ezcoylalitli"
+ ezcoylalitli_area_adj: "Ezcoylalitli"
+
+ eztehuitl_area: "Eztehuitl"
+ eztehuitl_area_name: "Eztehuitl"
+ eztehuitl_area_adj: "Eztehuitl"
+
+ cizicoyina_area: "Cizicoyina"
+ cizicoyina_area_name: "Cizicoyina"
+ cizicoyina_area_adj: "Cizicoyina"
+
+ ichcamina_area: "Ichcamina"
+ ichcamina_area_name: "Ichcamina"
+ ichcamina_area_adj: "Ichcamina"
+
+ citnexea_area: "Citnexea"
+ citnexea_area_name: "Citnexea"
+ citnexea_area_adj: "Citnexea"
+
+ miclioatl_area: "Miclioatl"
+ miclioatl_area_name: "Miclioatl"
+ miclioatl_area_adj: "Miclioatl"
+
+ ocolacoatl_area: "Ocolacoatl"
+ ocolacoatl_area_name: "Ocolacoatl"
+ ocolacoatl_area_adj: "Ocolacoatl"
+
+ matzaltzioc_area: "Matzaltzioc"
+ matzaltzioc_area_name: "Matzaltzioc"
+ matzaltzioc_area_adj: "Matzaltzioc"
+
+ quettooc_area: "Quettooc"
+ quettooc_area_name: "Quettooc"
+ quettooc_area_adj: "Quettooc"
+
+ cicamteehtli_area: "Cicamteehtli"
+ cicamteehtli_area_name: "Cicamteehtli"
+ cicamteehtli_area_adj: "Cicamteehtli"
+
+ illlicamtlan_area: "Illlicamtlan"
+ illlicamtlan_area_name: "Illlicamtlan"
+ illlicamtlan_area_adj: "Illlicamtlan"
+
+ ahuzahcamlin_area: "Ahuzahcamlin"
+ ahuzahcamlin_area_name: "Ahuzahcamlin"
+ ahuzahcamlin_area_adj: "Ahuzahcamlin"
+
+ cuacali_area: "Cuacali"
+ cuacali_area_name: "Cuacali"
+ cuacali_area_adj: "Cuacali"
+
+ micteecoylin_area: "Micteecoylin"
+ micteecoylin_area_name: "Micteecoylin"
+ micteecoylin_area_adj: "Micteecoylin"
+
+ ocotlicamatl_area: "Ocotlicamatl"
+ ocotlicamatl_area_name: "Ocotlicamatl"
+ ocotlicamatl_area_adj: "Ocotlicamatl"
+
+ monina_area: "Monina"
+ monina_area_name: "Monina"
+ monina_area_adj: "Monina"
+
+ acanextemlan_area: "Acanextemlan"
+ acanextemlan_area_name: "Acanextemlan"
+ acanextemlan_area_adj: "Acanextemlan"
+
+ miccoytl_area: "Miccoytl"
+ miccoytl_area_name: "Miccoytl"
+ miccoytl_area_adj: "Miccoytl"
+
+ teztli_area: "Teztli"
+ teztli_area_name: "Teztli"
+ teztli_area_adj: "Teztli"
+
+ ohttemlilea_area: "Ohttemlilea"
+ ohttemlilea_area_name: "Ohttemlilea"
+ ohttemlilea_area_adj: "Ohttemlilea"
+
+ quetina_area: "Quetina"
+ quetina_area_name: "Quetina"
+ quetina_area_adj: "Quetina"
+
+ coaatl_area: "Coaatl"
+ coaatl_area_name: "Coaatl"
+ coaatl_area_adj: "Coaatl"
+
+ ezzahnal_area: "Ezzahnal"
+ ezzahnal_area_name: "Ezzahnal"
+ ezzahnal_area_adj: "Ezzahnal"
+
+ coatelaliea_area: "Coatelaliea"
+ coatelaliea_area_name: "Coatelaliea"
+ coatelaliea_area_adj: "Coatelaliea"
+
+ ohttic_area: "Ohttic"
+ ohttic_area_name: "Ohttic"
+ ohttic_area_adj: "Ohttic"
+
+ acatzilea_area: "Acatzilea"
+ acatzilea_area_name: "Acatzilea"
+ acatzilea_area_adj: "Acatzilea"
+
+ ichli_area: "Ichli"
+ ichli_area_name: "Ichli"
+ ichli_area_adj: "Ichli"
+
+ quetlatlan_area: "Quetlatlan"
+ quetlatlan_area_name: "Quetlatlan"
+ quetlatlan_area_adj: "Quetlatlan"
+
+ netzalina_area: "Netzalina"
+ netzalina_area_name: "Netzalina"
+ netzalina_area_adj: "Netzalina"
+
+ coalalicacoch_area: "Coalalicacoch"
+ coalalicacoch_area_name: "Coalalicacoch"
+ coalalicacoch_area_adj: "Coalalicacoch"
+
+ tezhutlatic_area: "Tezhutlatic"
+ tezhutlatic_area_name: "Tezhutlatic"
+ tezhutlatic_area_adj: "Tezhutlatic"
+
+ matatley_area: "Matatley"
+ matatley_area_name: "Matatley"
+ matatley_area_adj: "Matatley"
+
+ ohtoc_area: "Ohtoc"
+ ohtoc_area_name: "Ohtoc"
+ ohtoc_area_adj: "Ohtoc"
+
+ ahutzihutatl_area: "Ahutzihutatl"
+ ahutzihutatl_area_name: "Ahutzihutatl"
+ ahutzihutatl_area_adj: "Ahutzihutatl"
+
+ netcoyzilee_area: "Netcoyzilee"
+ netcoyzilee_area_name: "Netcoyzilee"
+ netcoyzilee_area_adj: "Netcoyzilee"
+
+ nettotemoatl_area: "Nettotemoatl"
+ nettotemoatl_area_name: "Nettotemoatl"
+ nettotemoatl_area_adj: "Nettotemoatl"
+
+ nahuhtli_area: "Nahuhtli"
+ nahuhtli_area_name: "Nahuhtli"
+ nahuhtli_area_adj: "Nahuhtli"
+
+ itzcoatl_area: "Itzcoatl"
+ itzcoatl_area_name: "Itzcoatl"
+ itzcoatl_area_adj: "Itzcoatl"
+
+ tentlitlancali_area: "Tentlitlancali"
+ tentlitlancali_area_name: "Tentlitlancali"
+ tentlitlancali_area_adj: "Tentlitlancali"
+
+ nahulalipacka_area: "Nahulalipacka"
+ nahulalipacka_area_name: "Nahulalipacka"
+ nahulalipacka_area_adj: "Nahulalipacka"
+
+ itzzioc_area: "Itzzioc"
+ itzzioc_area_name: "Itzzioc"
+ itzzioc_area_adj: "Itzzioc"
+
+ nahutlanhutotl_area: "Nahutlanhutotl"
+ nahutlanhutotl_area_name: "Nahutlanhutotl"
+ nahutlanhutotl_area_adj: "Nahutlanhutotl"
+
+ netteetacoch_area: "Netteetacoch"
+ netteetacoch_area_name: "Netteetacoch"
+ netteetacoch_area_adj: "Netteetacoch"
+
+ nettzitecuina_area: "Nettzitecuina"
+ nettzitecuina_area_name: "Nettzitecuina"
+ nettzitecuina_area_adj: "Nettzitecuina"
+
+ eztacea_area: "Eztacea"
+ eztacea_area_name: "Eztacea"
+ eztacea_area_adj: "Eztacea"
+
+ cuaatnal_area: "Cuaatnal"
+ cuaatnal_area_name: "Cuaatnal"
+ cuaatnal_area_adj: "Cuaatnal"
+
+ nahucaczuma_area: "Nahucaczuma"
+ nahucaczuma_area_name: "Nahucaczuma"
+ nahucaczuma_area_adj: "Nahucaczuma"
+
+ citlihuitl_area: "Citlihuitl"
+ citlihuitl_area_name: "Citlihuitl"
+ citlihuitl_area_adj: "Citlihuitl"
+
+ acazi_area: "Acazi"
+ acazi_area_name: "Acazi"
+ acazi_area_adj: "Acazi"
+
+ ichualnextic_area: "Ichualnextic"
+ ichualnextic_area_name: "Ichualnextic"
+ ichualnextic_area_adj: "Ichualnextic"
+
+ ococoyli_area: "Ococoyli"
+ ococoyli_area_name: "Ococoyli"
+ ococoyli_area_adj: "Ococoyli"
+
+ guacoycali_area: "Guacoycali"
+ guacoycali_area_name: "Guacoycali"
+ guacoycali_area_adj: "Guacoycali"
+
+ ichtactetlan_area: "Ichtactetlan"
+ ichtactetlan_area_name: "Ichtactetlan"
+ ichtactetlan_area_adj: "Ichtactetlan"
+
+ ocotzitlanatl_area: "Ocotzitlanatl"
+ ocotzitlanatl_area_name: "Ocotzitlanatl"
+ ocotzitlanatl_area_adj: "Ocotzitlanatl"
+
+ nettecuhuitl_area: "Nettecuhuitl"
+ nettecuhuitl_area_name: "Nettecuhuitl"
+ nettecuhuitl_area_adj: "Nettecuhuitl"
+
+ ohtcacotl_area: "Ohtcacotl"
+ ohtcacotl_area_name: "Ohtcacotl"
+ ohtcacotl_area_adj: "Ohtcacotl"
+
+ chihtli_area: "Chihtli"
+ chihtli_area_name: "Chihtli"
+ chihtli_area_adj: "Chihtli"
+
+ illcoytecuzi_area: "Illcoytecuzi"
+ illcoytecuzi_area_name: "Illcoytecuzi"
+ illcoytecuzi_area_adj: "Illcoytecuzi"
+
+ cicoyteeli_area: "Cicoyteeli"
+ cicoyteeli_area_name: "Cicoyteeli"
+ cicoyteeli_area_adj: "Cicoyteeli"
+
+ cuaotl_area: "Cuaotl"
+ cuaotl_area_name: "Cuaotl"
+ cuaotl_area_adj: "Cuaotl"
+
+ citteculee_area: "Citteculee"
+ citteculee_area_name: "Citteculee"
+ citteculee_area_adj: "Citteculee"
+
+ coalacoytli_area: "Coalacoytli"
+ coalacoytli_area_name: "Coalacoytli"
+ coalacoytli_area_adj: "Coalacoytli"
+
+ guaaltic_area: "Guaaltic"
+ guaaltic_area_name: "Guaaltic"
+ guaaltic_area_adj: "Guaaltic"
+
+ montzicoyina_area: "Montzicoyina"
+ montzicoyina_area_name: "Montzicoyina"
+ montzicoyina_area_adj: "Montzicoyina"
+
+ ichea_area: "Ichea"
+ ichea_area_name: "Ichea"
+ ichea_area_adj: "Ichea"
+
+ huizahteea_area: "Huizahteea"
+ huizahteea_area_name: "Huizahteea"
+ huizahteea_area_adj: "Huizahteea"
+
+ illzahcactic_area: "Illzahcactic"
+ illzahcactic_area_name: "Illzahcactic"
+ illzahcactic_area_adj: "Illzahcactic"
+
+ ahunexcali_area: "Ahunexcali"
+ ahunexcali_area_name: "Ahunexcali"
+ ahunexcali_area_adj: "Ahunexcali"
+
+ chiatl_area: "Chiatl"
+ chiatl_area_name: "Chiatl"
+ chiatl_area_adj: "Chiatl"
+
+ micualea_area: "Micualea"
+ micualea_area_name: "Micualea"
+ micualea_area_adj: "Micualea"
+
+ monzitic_area: "Monzitic"
+ monzitic_area_name: "Monzitic"
+ monzitic_area_adj: "Monzitic"
+
+ tenhuttlanhtli_area: "Tenhuttlanhtli"
+ tenhuttlanhtli_area_name: "Tenhuttlanhtli"
+ tenhuttlanhtli_area_adj: "Tenhuttlanhtli"
+
+ citzitlan_area: "Citzitlan"
+ citzitlan_area_name: "Citzitlan"
+ citzitlan_area_adj: "Citzitlan"
+
+ monotl_area: "Monotl"
+ monotl_area_name: "Monotl"
+ monotl_area_adj: "Monotl"
+
+ guatemoatl_area: "Guatemoatl"
+ guatemoatl_area_name: "Guatemoatl"
+ guatemoatl_area_adj: "Guatemoatl"
+
+ acalin_area: "Acalin"
+ acalin_area_name: "Acalin"
+ acalin_area_adj: "Acalin"
+
+ tencaclea_area: "Tencaclea"
+ tencaclea_area_name: "Tencaclea"
+ tencaclea_area_adj: "Tencaclea"
+
+ cuatemhutcali_area: "Cuatemhutcali"
+ cuatemhutcali_area_name: "Cuatemhutcali"
+ cuatemhutcali_area_adj: "Cuatemhutcali"
+
+ ichatl_area: "Ichatl"
+ ichatl_area_name: "Ichatl"
+ ichatl_area_adj: "Ichatl"
+
+ chicactlan_area: "Chicactlan"
+ chicactlan_area_name: "Chicactlan"
+ chicactlan_area_adj: "Chicactlan"
+
+ illhuitl_area: "Illhuitl"
+ illhuitl_area_name: "Illhuitl"
+ illhuitl_area_adj: "Illhuitl"
+
+ ichlan_area: "Ichlan"
+ ichlan_area_name: "Ichlan"
+ ichlan_area_adj: "Ichlan"
+
+ tezmallee_area: "Tezmallee"
+ tezmallee_area_name: "Tezmallee"
+ tezmallee_area_adj: "Tezmallee"
+
+ ichnexley_area: "Ichnexley"
+ ichnexley_area_name: "Ichnexley"
+ ichnexley_area_adj: "Ichnexley"
+
+ nettlantlitl_area: "Nettlantlitl"
+ nettlantlitl_area_name: "Nettlantlitl"
+ nettlantlitl_area_adj: "Nettlantlitl"
+
+ illteehutcali_area: "Illteehutcali"
+ illteehutcali_area_name: "Illteehutcali"
+ illteehutcali_area_adj: "Illteehutcali"
+
+ ahutzplalilin_area: "Ahutzplalilin"
+ ahutzplalilin_area_name: "Ahutzplalilin"
+ ahutzplalilin_area_adj: "Ahutzplalilin"
+
+ gualey_area: "Gualey"
+ gualey_area_name: "Gualey"
+ gualey_area_adj: "Gualey"
+
+ chicoatl_area: "Chicoatl"
+ chicoatl_area_name: "Chicoatl"
+ chicoatl_area_adj: "Chicoatl"
+
+ teztlanzahhuitl_area: "Teztlanzahhuitl"
+ teztlanzahhuitl_area_name: "Teztlanzahhuitl"
+ teztlanzahhuitl_area_adj: "Teztlanzahhuitl"
+
+ guatactecumoc_area: "Guatactecumoc"
+ guatactecumoc_area_name: "Guatactecumoc"
+ guatactecumoc_area_adj: "Guatactecumoc"
+
+ huilitemoch_area: "Huilitemoch"
+ huilitemoch_area_name: "Huilitemoch"
+ huilitemoch_area_adj: "Huilitemoch"
+
+ illmoc_area: "Illmoc"
+ illmoc_area_name: "Illmoc"
+ illmoc_area_adj: "Illmoc"
+
+ nahuualnal_area: "Nahuualnal"
+ nahuualnal_area_name: "Nahuualnal"
+ nahuualnal_area_adj: "Nahuualnal"
+
+ miccamtlan_area: "Miccamtlan"
+ miccamtlan_area_name: "Miccamtlan"
+ miccamtlan_area_adj: "Miccamtlan"
+
+ ahualalltlan_area: "Ahualalltlan"
+ ahualalltlan_area_name: "Ahualalltlan"
+ ahualalltlan_area_adj: "Ahualalltlan"
+
+ ocoteeatl_area: "Ocoteeatl"
+ ocoteeatl_area_name: "Ocoteeatl"
+ ocoteeatl_area_adj: "Ocoteeatl"
+
+ eztic_area: "Eztic"
+ eztic_area_name: "Eztic"
+ eztic_area_adj: "Eztic"
+
+ ahuallnal_area: "Ahuallnal"
+ ahuallnal_area_name: "Ahuallnal"
+ ahuallnal_area_adj: "Ahuallnal"
+
+ citnexnal_area: "Citnexnal"
+ citnexnal_area_name: "Citnexnal"
+ citnexnal_area_adj: "Citnexnal"
+
+ acapacmalzi_area: "Acapacmalzi"
+ acapacmalzi_area_name: "Acapacmalzi"
+ acapacmalzi_area_adj: "Acapacmalzi"
+
+ ahuteecali_area: "Ahuteecali"
+ ahuteecali_area_name: "Ahuteecali"
+ ahuteecali_area_adj: "Ahuteecali"
+
+ chitocoyli_area: "Chitocoyli"
+ chitocoyli_area_name: "Chitocoyli"
+ chitocoyli_area_adj: "Chitocoyli"
+
+ ahucamatatl_area: "Ahucamatatl"
+ ahucamatatl_area_name: "Ahucamatatl"
+ ahucamatatl_area_adj: "Ahucamatatl"
+
+ cuahutathtli_area: "Cuahutathtli"
+ cuahutathtli_area_name: "Cuahutathtli"
+ cuahutathtli_area_adj: "Cuahutathtli"
+
+ ahuhuttic_area: "Ahuhuttic"
+ ahuhuttic_area_name: "Ahuhuttic"
+ ahuhuttic_area_adj: "Ahuhuttic"
+
+ quetalmalhtli_area: "Quetalmalhtli"
+ quetalmalhtli_area_name: "Quetalmalhtli"
+ quetalmalhtli_area_adj: "Quetalmalhtli"
+
+ citemlilan_area: "Citemlilan"
+ citemlilan_area_name: "Citemlilan"
+ citemlilan_area_adj: "Citemlilan"
+
+ itzzi_area: "Itzzi"
+ itzzi_area_name: "Itzzi"
+ itzzi_area_adj: "Itzzi"
+
+ itzina_area: "Itzina"
+ itzina_area_name: "Itzina"
+ itzina_area_adj: "Itzina"
+
+ teztzpcactic_area: "Teztzpcactic"
+ teztzpcactic_area_name: "Teztzpcactic"
+ teztzpcactic_area_adj: "Teztzpcactic"
+
+ guaalltl_area: "Guaalltl"
+ guaalltl_area_name: "Guaalltl"
+ guaalltl_area_adj: "Guaalltl"
+
+ cuaoatl_area: "Cuaoatl"
+ cuaoatl_area_name: "Cuaoatl"
+ cuaoatl_area_adj: "Cuaoatl"
+
+ itzteetzicoatl_area: "Itzteetzicoatl"
+ itzteetzicoatl_area_name: "Itzteetzicoatl"
+ itzteetzicoatl_area_adj: "Itzteetzicoatl"
+
+ itzea_area: "Itzea"
+ itzea_area_name: "Itzea"
+ itzea_area_adj: "Itzea"
+
+ guatlantemlin_area: "Guatlantemlin"
+ guatlantemlin_area_name: "Guatlantemlin"
+ guatlantemlin_area_adj: "Guatlantemlin"
+
+ coacali_area: "Coacali"
+ coacali_area_name: "Coacali"
+ coacali_area_adj: "Coacali"
+
+ cuatic_area: "Cuatic"
+ cuatic_area_name: "Cuatic"
+ cuatic_area_adj: "Cuatic"
+
+ nettecali_area: "Nettecali"
+ nettecali_area_name: "Nettecali"
+ nettecali_area_adj: "Nettecali"
+
+ tenli_area: "Tenli"
+ tenli_area_name: "Tenli"
+ tenli_area_adj: "Tenli"
+
+ monteeteecali_area: "Monteeteecali"
+ monteeteecali_area_name: "Monteeteecali"
+ monteeteecali_area_adj: "Monteeteecali"
+
+ matteecoatl_area: "Matteecoatl"
+ matteecoatl_area_name: "Matteecoatl"
+ matteecoatl_area_adj: "Matteecoatl"
+
+ cualee_area: "Cualee"
+ cualee_area_name: "Cualee"
+ cualee_area_adj: "Cualee"
+
+ cuatemoc_area: "Cuatemoc"
+ cuatemoc_area_name: "Cuatemoc"
+ cuatemoc_area_adj: "Cuatemoc"
+
+ ocoualina_area: "Ocoualina"
+ ocoualina_area_name: "Ocoualina"
+ ocoualina_area_adj: "Ocoualina"
+
+ netlatotic_area: "Netlatotic"
+ netlatotic_area_name: "Netlatotic"
+ netlatotic_area_adj: "Netlatotic"
+
+ chipacea_area: "Chipacea"
+ chipacea_area_name: "Chipacea"
+ chipacea_area_adj: "Chipacea"
+
+ itztzinal_area: "Itztzinal"
+ itztzinal_area_name: "Itztzinal"
+ itztzinal_area_adj: "Itztzinal"
+
+ acatzilee_area: "Acatzilee"
+ acatzilee_area_name: "Acatzilee"
+ acatzilee_area_adj: "Acatzilee"
+
+ illtzitziatl_area: "Illtzitziatl"
+ illtzitziatl_area_name: "Illtzitziatl"
+ illtzitziatl_area_adj: "Illtzitziatl"
+
+ cuaattlilin_area: "Cuaattlilin"
+ cuaattlilin_area_name: "Cuaattlilin"
+ cuaattlilin_area_adj: "Cuaattlilin"
+
+ cittlanallzi_area: "Cittlanallzi"
+ cittlanallzi_area_name: "Cittlanallzi"
+ cittlanallzi_area_adj: "Cittlanallzi"
+
+ matmaluallee_area: "Matmaluallee"
+ matmaluallee_area_name: "Matmaluallee"
+ matmaluallee_area_adj: "Matmaluallee"
+ 
+ #-------------------------------
+ # Regions
+ #-------------------------------
+ 
+ 
+ #-------------------------------
+ # Superregions
+ #-------------------------------
+ 
+ #-------------------------------
+ # Continents
+ #-------------------------------
+ ixalan: "Ixalan"
+ border_continent: "Border"

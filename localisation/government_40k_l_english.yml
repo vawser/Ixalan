@@ -1,0 +1,222 @@
+﻿l_english:
+ #-----------------------------
+ # Ranks
+ #-----------------------------
+ RANK_1: "Rank Omega"
+ RANK_2: "Rank Beta"
+ RANK_3: "Rank Alpha"
+ 
+ #-----------------------------
+ # Governments
+ #-----------------------------
+ astra_militarum: "Astra Militarum"
+ astra_militarum_name: "Astra Militarum"
+ astra_militarum_desc: ""
+ 
+ space_marine_chapter: "Space Marine Chapter"
+ space_marine_chapter_name: "Space Marine Chapter"
+ space_marine_chapter_desc: ""
+ 
+ orders_militant: "Orders Militant"
+ orders_militant_name: "Orders Militant"
+ orders_militant_desc: ""
+ 
+ traitor_legion: "Traitor Legion"
+ traitor_legion_name: "Traitor Legion"
+ traitor_legion_desc: ""
+ 
+ daemon_horde: "Daemon Horde"
+ daemon_horde_name: "Daemon Horde"
+ daemon_horde_desc: ""
+ 
+ chaos_cult: "Chaos Cult"
+ chaos_cult_name: "Chaos Cult"
+ chaos_cult_desc: ""
+ 
+ kabal: "Kabal"
+ kabal_name: "Kabal"
+ kabal_desc: ""
+ 
+ haemonculi_coven: "Haemonculi Coven"
+ haemonculi_coven_name: "Haemonculi Coven"
+ haemonculi_coven_desc: ""
+ 
+ wych_cult: "Wych Cult"
+ wych_cult_name: "Wych Cult"
+ wych_cult_desc: ""
+ 
+ craftworld_outpost: "Craftworld Outpost"
+ craftworld_outpost_name: "Craftworld Outpost"
+ craftworld_outpost_desc: ""
+ 
+ tomb_world: "Tomb World"
+ tomb_world_name: "Tomb World"
+ tomb_world_desc: ""
+ 
+ ork_clan: "Ork Clan"
+ ork_clan_name: "Ork Clan"
+ ork_clan_desc: ""
+ 
+ tau_contingent: "Tau Contingent"
+ tau_contingent_name: "Tau Contingent"
+ tau_contingent_desc: ""
+ 
+ hive_fleet: "Hive Fleet"
+ hive_fleet_name: "Hive Fleet"
+ hive_fleet_desc: ""
+ 
+ genestealer_cult: "Genestealer Cult"
+ genestealer_cult_name: "Genestealer Cult"
+ genestealer_cult_desc: ""
+ 
+ #-----------------------------
+ # Mechanics
+ #-----------------------------
+ astra_militarum_mechanic: "Astra Militarum"
+ astra_militarum_mechanic_desc: ""
+ space_marine_chapter_mechanic: "Space Marine Chapter"
+ space_marine_chapter_mechanic_desc: ""
+ orders_militant_mechanic: "Orders Militant"
+ orders_militant_mechanic_desc: ""
+ traitor_legion_mechanic: "Traitor Legion"
+ traitor_legion_mechanic_desc: ""
+ daemon_horde_mechanic: "Daemon Horde"
+ daemon_horde_mechanic_desc: ""
+ chaos_cult_mechanic: "Chaos Cult"
+ chaos_cult_mechanic_desc: ""
+ kabal_mechanic: "Kabal"
+ kabal_mechanic_desc: ""
+ haemonculi_coven_mechanic: "Haemonculi Coven"
+ haemonculi_coven_mechanic_desc: ""
+ wych_cult_mechanic: "Wych Cult"
+ wych_cult_mechanic_desc: ""
+ craftworld_outpost_mechanic: "Craftworld Outpost"
+ craftworld_outpost_mechanic_desc: ""
+ tomb_world_mechanic: "Tomb World"
+ tomb_world_mechanic_desc: ""
+ ork_clan_mechanic: "Ork Clan"
+ ork_clan_mechanic_desc: ""
+ tau_contingent_mechanic: "Tau Contingent"
+ tau_contingent_mechanic_desc: ""
+ hive_fleet_mechanic: "Hive Fleet"
+ hive_fleet_mechanic_desc: ""
+ genestealer_cult_mechanic: "Genestealer Cult"
+ genestealer_cult_mechanic_desc: ""
+ 
+ #-----------------------------
+ # Tiers
+ #-----------------------------
+ government_form: "Government Form"
+ 
+ #-----------------------------
+ # Legacy
+ #-----------------------------
+ astra_militarum_legacy: "Astra Militarum"
+ astra_militarum_legacy_desc: ""
+ space_marine_chapter_legacy: "Space Marine Chapter"
+ space_marine_chapter_legacy_desc: ""
+ orders_militant_legacy: "Orders Militant"
+ orders_militant_legacy_desc: ""
+ traitor_legion_legacy: "Traitor Legion"
+ traitor_legion_legacy_desc: ""
+ daemon_horde_legacy: "Daemon Horde"
+ daemon_horde_legacy_desc: ""
+ chaos_cult_legacy: "Chaos Cult"
+ chaos_cult_legacy_desc: ""
+ kabal_legacy: "Kabal"
+ kabal_legacy_desc: ""
+ haemonculi_coven_legacy: "Haemonculi Coven"
+ haemonculi_coven_legacy_desc: ""
+ wych_cult_legacy: "Wych Cult"
+ wych_cult_legacy_desc: ""
+ craftworld_outpost_legacy: "Craftworld Outpost"
+ craftworld_outpost_legacy_desc: ""
+ tomb_world_legacy: "Tomb World"
+ tomb_world_legacy_desc: ""
+ ork_clan_legacy: "Ork Clan"
+ ork_clan_legacy_desc: ""
+ tau_contingent_legacy: "Tau Contingent"
+ tau_contingent_legacy_desc: ""
+ hive_fleet_legacy: "Hive Fleet"
+ hive_fleet_legacy_desc: ""
+ genestealer_cult_legacy: "Genestealer Cult"
+ genestealer_cult_legacy_desc: ""
+ 
+ #-----------------------------
+ # Government Forms
+ #-----------------------------
+ astra_militarum_reform: "Astra Militarum"
+ astra_militarum_reform_desc: ""
+ space_marine_chapter_reform: "Space Marine Chapter"
+ space_marine_chapter_reform_desc: ""
+ orders_militant_reform: "Orders Militant"
+ orders_militant_reform_desc: ""
+ traitor_legion_reform: "Traitor Legion"
+ traitor_legion_reform_desc: ""
+ daemon_horde_reform: "Daemon Horde"
+ daemon_horde_reform_desc: ""
+ chaos_cult_reform: "Chaos Cult"
+ chaos_cult_reform_desc: ""
+ kabal_reform: "Kabal"
+ kabal_reform_desc: ""
+ haemonculi_coven_reform: "Haemonculi Coven"
+ haemonculi_coven_reform_desc: ""
+ wych_cult_reform: "Wych Cult"
+ wych_cult_reform_desc: ""
+ craftworld_outpost_reform: "Craftworld Outpost"
+ craftworld_outpost_reform_desc: ""
+ tomb_world_reform: "Tomb World"
+ tomb_world_reform_desc: ""
+ ork_clan_reform: "Ork Clan"
+ ork_clan_reform_desc: ""
+ tau_contingent_reform: "Tau Contingent"
+ tau_contingent_reform_desc: ""
+ hive_fleet_reform: "Hive Fleet"
+ hive_fleet_reform_desc: ""
+ genestealer_cult_reform: "Genestealer Cult"
+ genestealer_cult_reform_desc: ""
+ 
+ #-----------------------------
+ # Government Titles
+ #-----------------------------
+ GOV_ASTRA_MILITARUM: "Astra Militarum"
+ GOV_SPACE_MARINE_CHAPTER: "Space Marine Chapter"
+ GOV_ORDERS_MILITANT: "Orders Militant"
+ GOV_TRAITOR_LEGION: "Traitor Legion"
+ GOV_DAEMON_HORDE: "Daemon Horde"
+ GOV_CHAOS_CULT: "Chaos Cult"
+ GOV_KABAL: "Kabal"
+ GOV_HAEMONCULI_COVEN: "Haemonculi Coven"
+ GOV_WYCH_CULT: "Wych Cult"
+ GOV_CRAFTWORLD_OUTPOST: "Craftworld Outpost"
+ GOV_TOMB_WORLD: "Tomb World"
+ GOV_CLAN: "Clan"
+ GOV_CONTINGENT: "Contingent"
+ GOV_HIVE_FLEET: "Hive Fleet"
+ GOV_GENESTEALER_CULT: "Genestealer Cult"
+ 
+ #-----------------------------
+ # Ruler Titles
+ #-----------------------------
+ GOV_LORD_COMMANDER: "Lord Commander"
+ GOV_FORCE_COMMANDER: "Force Commander"
+ GOV_CANONESS: "Canoness"
+ GOV_CHAOS_LORD: "Chaos Lord"
+ GOV_DAEMON_LORD: "Daemon Lord"
+ GOV_HEAD_CULTIST: "Head Cultist"
+ GOV_ARCHON: "Archon"
+ GOV_MASTER_HAEMONCULUS: "Master Haemonculus"
+ GOV_ARCHITE: "Archite"
+ GOV_SUCCUBUS: "Succubus"
+ GOV_FARSEER: "Farseer"
+ GOV_NECRON_LORD: "Necron Lord"
+ GOV_WARBOSS: "Warboss"
+ GOV_TAU_COMMANDER: "Tau Commander"
+ GOV_SWARMLORD: "Swarmlord"
+ GOV_PATRIARCH: "Patriarch"
+ GOV_MATRIARCH: "Matriarch"
+ GOV_SUCCESSOR: "Successor"
+ 
+ #-----------------------------
+ # Reforms
+ #-----------------------------

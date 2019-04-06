@@ -1,0 +1,7 @@
+bookmark = {
+	name = "IXALAN_NAME"
+	desc = "IXALAN_DESC"
+	date = 128.1.1
+	
+	#country = DBG
+}

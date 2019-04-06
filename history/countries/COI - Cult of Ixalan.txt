@@ -1,0 +1,9 @@
+technology_group = tyranid_tech
+
+government = genestealer_cult
+add_government_reform = genestealer_cult_reform
+
+religion = hive_mind
+primary_culture = genestealer
+
+capital = 1

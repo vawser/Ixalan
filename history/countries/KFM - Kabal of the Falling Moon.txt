@@ -1,0 +1,9 @@
+technology_group = dark_eldar_tech
+
+government = kabal
+add_government_reform = kabal_reform
+
+religion = hedonism
+primary_culture = kabal_of_the_falling_moon
+
+capital = 1
